@@ -1,5 +1,6 @@
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
+###
 
 <p style="font-size: 1.4em; font-style: italic; font-weight: bold; margin: 0;">
 👋 Ciao, sono Giovanni
