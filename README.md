@@ -1,8 +1,7 @@
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
 
-<h3>👋 Ciao, sono Giovanni</h3>
-
+<h3><em>👋 Ciao, sono Giovanni</h3></em>
 
 
 ###
