@@ -2,7 +2,7 @@
 
 ###
 
-### **_👋 Ciao, sono Giovanni_**
+### **_👋 Ciao, sono Giovanni!_**
 
 
 
