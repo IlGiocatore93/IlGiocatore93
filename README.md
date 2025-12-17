@@ -2,7 +2,7 @@
 
 ###
 
-<p style="font-size: 1.4em; margin: 0;">
+<p style="font-size: 1.6em; margin: 0;">
 <i><b>👋 Ciao, sono Giovanni</b></i>
 </p>
 
