@@ -2,9 +2,10 @@
 
 ###
 
-<p style="font-size: 1.4em; font-style: italic; font-weight: bold; margin: 0;">
-👋 Ciao, sono Giovanni
+<p style="font-size: 1.4em; margin: 0;">
+<i><b>👋 Ciao, sono Giovanni</b></i>
 </p>
+
 
 ###
 
