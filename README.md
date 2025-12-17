@@ -1,13 +1,23 @@
-<!-- Header Profilo GitHub -->
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
-### **_👋 Ciao, sono Giovanni_**
+###
+
+<p style="font-size: 10px; margin: 0;">
+<i><b>👋 Ciao, sono Giovanni</b></i>
+</p>
 
 
-<br>
+###
 
-💻 Studente Cloud-DevOps, affascinato dall’informatica e dal tech in ogni sua forma  
-📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare
+**____________________________________________________________________________________________________________________________________**
+
+###
+
+💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma!
+
+📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
+
+###
 
 
 **APPLICATIVI DI RIFERIMENTO :**
