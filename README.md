@@ -1,7 +1,7 @@
 <!-- Header Profilo GitHub -->
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
-<p style="font-size: 3.0em; font-weight: bold; font-style: italic; margin: 0;">
+<p style="font-size: 2.2em; font-weight: bold; font-style: italic; margin: 0;">
 👋 Ciao, sono Giovanni
 </p>
 
