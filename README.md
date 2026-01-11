@@ -20,8 +20,16 @@
 ###
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
-![Backup](assets/top-langs.png)
+### 📊 Linguaggi più utilizzati
+
+<!-- Top Languages automatico -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" height="180" />
+
+<!-- Fallback statico (visibile se il servizio esterno non funziona) -->
+<img src="assets/top-langs.png" alt="Top Languages Backup" height="180" />
+
+_Statistiche basate sulle repository pubbliche_
+
 
 
 
