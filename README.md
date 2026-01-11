@@ -18,13 +18,6 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 
 ###
-
-
-**APPLICATIVI DI RIFERIMENTO :**
-
-
-###
-
 <h3 align="center"><em>📊 Linguaggi più utilizzati</em></h3>
 
 <p align="center">
@@ -37,6 +30,13 @@
 <p align="center">
   <em>Statistiche basate sulle repository pubbliche</em>
 </p>
+
+###
+
+
+**APPLICATIVI DI RIFERIMENTO :**
+
+
 
 
 
