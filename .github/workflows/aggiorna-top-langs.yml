@@ -31,12 +31,11 @@ jobs:
             rm -f $TMP_FILE
           fi
 
-       - name: Commit e push se aggiornato
-         run: |
+      - name: Commit e push se aggiornato
+        run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add assets/top-langs.png
           git diff --cached --quiet || git commit -m "Aggiorna immagine Top Languages [Automatica]"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/IlGiocatore93/IlGiocatore93.git HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
