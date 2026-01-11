@@ -22,8 +22,7 @@
 
 ### 📊 Linguaggi più utilizzati
 
-
-
+![Top Languages](https://gitmystat.vercel.app/api/top-langs?username=IlGiocatore93)
 <!-- Fallback statico (visibile se il servizio esterno non funziona) -->
 <img src="assets/top-langs.png" alt="Top Languages Backup" height="180" />
 
