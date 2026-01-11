@@ -18,18 +18,8 @@
 📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
 
 ###
-<h3 align="center"><em>📊 Linguaggi più utilizzati</em></h3>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <em>Statistiche basate sulle repository pubbliche</em>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilGiocatore93&layout=donut&theme=github_dark&hide_border=true" />
 
 ###
 
