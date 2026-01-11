@@ -21,9 +21,10 @@
 
 
 ### 📊 Linguaggi più utilizzati
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=10&theme=github_dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&theme=github_dark&hide_border=true)
 
 _Statistiche basate sulle repository pubbliche_
+
 
 
 
