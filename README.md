@@ -2,7 +2,7 @@
 
 ###
 
-### 👋 *Ciao, sono Giovanni!*
+<h3><em>👋 Ciao, sono Giovanni!</em></h3>
 
 
 
