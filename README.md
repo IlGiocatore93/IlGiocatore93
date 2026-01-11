@@ -22,9 +22,10 @@
 
 ### 📊 Linguaggi più utilizzati
 
-![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&stats_format=percentages&theme=github_dark)
+![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=IlGiocatore93&pie=false&color=dark)
 
 _Statistiche basate sulle repository pubbliche_
+
 
 
 
