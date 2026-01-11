@@ -23,6 +23,27 @@
 **APPLICATIVI DI RIFERIMENTO :**
 
 
+###
+
+<h3 align="center"><em>📊 Linguaggi più utilizzati</em></h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilGicatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <em>Statistiche basate sulle repository pubbliche</em>
+</p>
+
+
+
+###
+
+
+
 <p align="left">
  <em>Linguaggi : </em>
  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /></a> 
