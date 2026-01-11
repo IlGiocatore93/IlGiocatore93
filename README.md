@@ -20,12 +20,8 @@
 ###
 
 
-
-### 📊 Linguaggi più utilizzati
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=10&theme=github_dark)
-
-_Statistiche basate sulle repository pubbliche_
-
+### 🧩 Altri linguaggi utilizzati
+HTML • CSS • Bash • R • JSON • YAML • SQL • PowerShell
 
 
 
