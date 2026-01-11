@@ -23,6 +23,7 @@
 ### 📊 Linguaggi più utilizzati:
 
 ![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=IlGiocatore93)
+
 _Statistiche basate sulle repository pubbliche_
 
 
