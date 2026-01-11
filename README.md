@@ -20,17 +20,12 @@
 ###
 
 
+
 ### 📊 Linguaggi più utilizzati
-
-### 📊 Linguaggi – layout compatto
 ![Top Langs Compact](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8)
-
-### 📊 Linguaggi – grafico donut
-![Top Langs Donut](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut&langs_count=8)
 
 ### 📊 Linguaggi – grafico a torta (pie)
 ![Top Langs Pie](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=pie&langs_count=8)
-
 
 _Statistiche basate sulle repository pubbliche_
 
