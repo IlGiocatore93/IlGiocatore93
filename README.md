@@ -22,9 +22,9 @@
 
 ### 📊 Linguaggi più utilizzati
 
-<img src="assets/top-langs.png" alt="Top Languages" height="180" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
-_Statistiche aggiornate automaticamente ogni giorno_
+_Statistiche basate sulle repository pubbliche_
 
 
 
