@@ -25,6 +25,10 @@
 
 _Statistiche basate sulle repository pubbliche_
 
+### 🧩 Altri linguaggi utilizzati
+HTML • CSS • Bash • R • PowerShell • SQL • JSON • YAML
+
+
 
 
 
