@@ -19,7 +19,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBiancoli&layout=donut&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannibiancoli&layout=donut&theme=github_dark&hide_border=true" />
 
 ###
 
