@@ -25,11 +25,11 @@
 ![Top Langs Compact](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8)
 
 ### 📊 Linguaggi (istanza alternativa)
-![Top Langs ALT](https://github-readme-stats.zcy.dev/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark)
+![Top Langs ALT](https://github-readme-stats.zcy.dev/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_white)
 
 
 ### 📊 Linguaggi – donut (alt)
-![Top Langs Donut ALT](https://github-readme-stats.zcy.dev/api/top-langs/?username=IlGiocatore93&layout=donut&langs_count=8&theme=github_dark)
+![Top Langs Donut ALT](https://github-readme-stats.zcy.dev/api/top-langs/?username=IlGiocatore93&layout=donut&langs_count=8&theme=github_white)
 
 
 _Statistiche basate sulle repository pubbliche_
