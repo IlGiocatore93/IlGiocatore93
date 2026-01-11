@@ -20,11 +20,7 @@
 ###
 
 
-### 📊 Linguaggi più utilizzati
 
-<img src="assets/top-langs.png" alt="Top Languages" height="180" />
-
-_Statistiche aggiornate automaticamente ogni giorno_
 
 
 
