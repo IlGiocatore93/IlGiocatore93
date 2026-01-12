@@ -55,7 +55,6 @@
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="48"/>
 
-" width="48"/>
 
 <br><br>
 <b>Web / SEO / Design</b><br>
