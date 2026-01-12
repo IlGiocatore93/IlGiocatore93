@@ -25,9 +25,9 @@
 
 <h2>🧰 APPLICATIVI DI RIFERIMENTO:</h2>
 
-<table width="30%">
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="10%">
 
 <hr>
 
