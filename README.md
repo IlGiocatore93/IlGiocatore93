@@ -29,37 +29,37 @@
 <tr>
 <td valign="top" width="50%">
 
-<b>Linguaggi</b><br>
+<b>Linguaggi:</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r" />
 
 <br><br>
-<b>IDE</b><br>
+<b>IDE:</b><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
 
 <br><br>
-<b>Framework</b><br>
+<b>Framework:</b><br>
 <img src="https://skillicons.dev/icons?i=dotnet,flask" />
 
 </td>
 
 <td valign="top" width="50%">
 
-<b>Database</b><br>
+<b>Database:</b><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
 
 <br><br>
-<b>Container & Virtualizzazione</b><br>
+<b>Container & Virtualizzazione:</b><br>
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" width="48"/>
 
 <br><br>
-<b>Web / SEO / Design</b><br>
+<b>Web / SEO / Design:</b><br>
 <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/miro/miro-original.svg" width="48"/>
 
 <br><br>
-<b>Repository</b><br>
+<b>Repository:</b><br>
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 </td>
