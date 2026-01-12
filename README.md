@@ -29,7 +29,7 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50% style="padding-right:20px">
 
 <b>Linguaggi:</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r" />
