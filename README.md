@@ -44,7 +44,7 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="padding-right:20px">
 
 <b>Database:</b><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
