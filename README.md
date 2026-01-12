@@ -53,7 +53,9 @@
 <br><br>
 <b>Container & Virtualizzazione</b><br>
 <img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" alt="Vmware" width="48"/>
+
+" width="48"/>
 
 <br><br>
 <b>Web / SEO / Design</b><br>
