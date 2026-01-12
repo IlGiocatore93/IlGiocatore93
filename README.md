@@ -42,6 +42,11 @@
 <b>Framework</b><br>
 <img src="https://skillicons.dev/icons?i=dotnet,flask" />
 
+<br><br>
+<b>Editor di Testo</b><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" alt="Notepad ++" height="48" />
+
+
 </td>
 
 <td valign="top" width="50%">
