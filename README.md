@@ -40,7 +40,7 @@
 
 <br><br>
 <b>Framework</b><br>
-<img src="https://skillicons.dev/icons?i=dotnet,flask,json" />
+<img src="https://skillicons.dev/icons?i=dotnet,flask" />
 
 </td>
 
@@ -53,7 +53,7 @@
 <br><br>
 <b>Container & Virtualizzazione</b><br>
 <img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="70"/>
 
 
 <br><br>
