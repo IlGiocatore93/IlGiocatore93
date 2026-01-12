@@ -58,7 +58,7 @@
 <br><br>
 <b>Web / SEO / Design</b><br>
 <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/miro/miro-original.svg" width="48"/>
+<img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png?fm=webp&q=65" alt="Miro" width="48"/>
 
 <br><br>
 <b>Repository</b><br>
