@@ -12,13 +12,9 @@
 ### 📊 Linguaggi più utilizzati
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7)
 
-### 📊 Altri Tools Utilizzati – Donut Chart
+### 📊 Altri tool Utilizzati – Donut Vertical
 
-![Top Langs Donut](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut&langs_count=8&theme=github_dark)
-
-### 📊 Linguaggi – Donut Vertical
-
-![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark)
+![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_white)
 
 
 
