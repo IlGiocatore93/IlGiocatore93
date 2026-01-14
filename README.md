@@ -1,30 +1,16 @@
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
-###
-
 <h3><em>👋 Ciao, sono Giovanni!</em></h3>
 
+💻 Studente **Cloud-DevOps**, affascinato dall'Informatica e dal tech in ogni sua forma!  
+📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare
 
+---
 
-###
+### 📊 Linguaggi più utilizzati
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7)
 
-<hr style="border: 1px solid #ccc;">
-
-
-###
-
-💻Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma!
-
-📌Sempre pronto a imparare qualcosa di nuovo e a migliorare
-
- ###
- 
- ### 📊 Linguaggi più utilizzati
- ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7)
-
-
-<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
-<hr>
+<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
 
 <table width="100%" align="center">
   <tr>
