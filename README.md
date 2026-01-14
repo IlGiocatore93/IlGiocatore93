@@ -16,6 +16,11 @@
 
 ![Top Langs Donut](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut&langs_count=8&theme=github_dark)
 
+### 📊 Linguaggi – Donut Vertical
+
+![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark)
+
+
 
 
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
