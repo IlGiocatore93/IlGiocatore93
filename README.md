@@ -30,48 +30,33 @@
 <table width="100%" align="center">
   <tr>
     <td valign="top" width="50%">
-
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r" />
-
       <br><br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
-
       <br><br>
       <b>Framework:</b><br>
       <img src="https://skillicons.dev/icons?i=dotnet,flask" />
-
       <br><br>
       <b>Editor di Testo:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
-
     </td>
-
     <td valign="top" width="50%">
-
       <b>Database:</b><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
-
       <br><br>
       <b>Container & Virtualizzazione:</b><br>
       <img src="https://skillicons.dev/icons?i=docker" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="70"/>
-
       <br><br>
       <b>Web / SEO / Design:</b><br>
       <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
       <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" width="60"/>
-
       <br><br>
       <b>Repository:</b><br>
       <img src="https://skillicons.dev/icons?i=git,github" />
-
     </td>
   </tr>
 </table>
-
-
-
-
