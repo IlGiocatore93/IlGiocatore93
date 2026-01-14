@@ -25,7 +25,7 @@
 
 <h2>🧰 APPLICATIVI DI RIFERIMENTO</h2>
 
-<hr>
+
 
 <table width="100%">
 <tr>
