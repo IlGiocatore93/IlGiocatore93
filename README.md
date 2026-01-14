@@ -14,7 +14,7 @@
 
 ### 📊 Altri tool Utilizzati – Donut Vertical
 
-![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_black)
+![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_blue)
 
 
 
