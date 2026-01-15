@@ -45,6 +45,7 @@
       <b>Database:</b><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="45" />
       <br>
       <b>Container & Virtualizzazione:</b><br>
       <img src="https://skillicons.dev/icons?i=docker" />
