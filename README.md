@@ -8,8 +8,8 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
-### 📊 Linguaggi principali
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&&theme=blue_dark" />
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github_dark)
+
 
 <img src="https://metrics.lecoq.io/IlGiocatore93" />
 
