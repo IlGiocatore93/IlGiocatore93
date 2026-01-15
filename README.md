@@ -27,6 +27,7 @@
     <td valign="top" width="55%">
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,python,cs,js,ts,php,bash,r"/> 
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" />
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
