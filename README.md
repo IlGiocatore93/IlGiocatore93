@@ -48,7 +48,7 @@
       <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="45" />
       <br>
       <b>Container & Virtualizzazione:</b><br>
-      <img src="https://skillicons.dev/icons?i=docker,oracle virtualbox" />
+      <img src="https://skillicons.dev/icons?i=docker,virtualbox" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25"/>
       <br>
       <b>Web / SEO / Design:</b><br>
