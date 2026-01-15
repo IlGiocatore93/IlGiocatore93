@@ -47,8 +47,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width="70"/>
       <br>
       <b>Web / SEO / Design:</b><br>
-      <img src="https://skillicons.dev/icons?i=nginx,wordpress,xampp" />
+      <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
       <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" width="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" width="60"/>
       <br>
       <b>Repository:</b><br>
       <img src="https://skillicons.dev/icons?i=git,github" />
