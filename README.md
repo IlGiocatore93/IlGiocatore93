@@ -27,7 +27,7 @@
 
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
 
-<table width="100%" align="center" height="80%">
+<table width="100%" align="center" height="20%">
   <tr>
     <td valign="top" width="45%">
       <b>Linguaggi:</b><br>
