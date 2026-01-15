@@ -18,7 +18,7 @@
       />
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🧰 Other tools used</h3>
+      <h3>🧰 Altri tool utilizzati</h3>
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark"
       />
