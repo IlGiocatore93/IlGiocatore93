@@ -32,7 +32,7 @@
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
       <br>
       <b>Framework:</b><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,flask,powershell" />
+      <img src="https://skillicons.dev/icons?i=dotnet,flask,powershell,tkinter" />
       <br>
       <b>Editor di Testo:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
