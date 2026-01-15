@@ -34,7 +34,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="45" />
       <br>
       <b>Framework:</b><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,flask,powershell" />
+      <img src="https://skillicons.dev/icons?i=powershell,dotnet,flask" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="45" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="45" />
       <br>
