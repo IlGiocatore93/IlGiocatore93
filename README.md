@@ -29,7 +29,7 @@
 
 <table width="100%" align="center">
   <tr>
-    <td valign="top" width="35%">
+    <td valign="top" width="45%">
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,python,cs,js,ts,php,bash,r"/> 
       <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="55" />
