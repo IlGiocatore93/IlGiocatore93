@@ -34,7 +34,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="45" />
       <br>
       <b>Framework:</b><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,flask,powershell,tkinter" />
+      <img src="https://skillicons.dev/icons?i=dotnet,flask,powershell" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="45" />
       <br>
       <b>Editor di Testo:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
