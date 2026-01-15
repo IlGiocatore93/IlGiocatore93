@@ -7,7 +7,7 @@
 
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
-###LINGUAGGI PIù UTILIZZATI
+<h2>LINGUAGGI PIU UTILIZZATI</h2>
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github_dark)
 
 
