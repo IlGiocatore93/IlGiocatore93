@@ -48,7 +48,7 @@
       <br>
       <b>Web / SEO / Design:</b><br>
       <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
-      <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="45" />
+      <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="45"/>
       <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" />
  
 " height="35"/>
