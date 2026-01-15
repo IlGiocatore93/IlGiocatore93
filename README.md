@@ -8,8 +8,12 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
-### 📊 Linguaggi & Tool (percentuali reali)
-<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage&languages.other=true" />
+### 📊 Linguaggi principali
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact" />
+
+### 📈 Percentuali reali
+<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage" />
+
 
 
 
