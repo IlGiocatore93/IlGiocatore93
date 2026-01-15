@@ -8,11 +8,9 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
-### 📊 Linguaggi principali (dati reali)
-<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage" />
+### 📊 Linguaggi & Tool (percentuali reali)
+<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage&languages.other=true" />
 
-### 🧰 Tecnologie utilizzate
-<img src="https://skillicons.dev/icons?i=js,html,css,python,cs,php,docker,git,github" />
 
 
   
