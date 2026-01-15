@@ -26,7 +26,7 @@
   <tr>
     <td valign="top" width="55%">
       <b>Linguaggi:</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,python,cs,js,ts,Node,php,bash,r," />
+      <img src="https://skillicons.dev/icons?i=html,css,python,cs,js,ts,php,bash,r,node" />
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
