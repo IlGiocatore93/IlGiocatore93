@@ -10,7 +10,7 @@
 <table width="100%" align="center">
   <tr>
 <td width="50%" align="center" valign="top">
-      <h3>📊 Linguaggi più utilizzati</h3>
+         <📊 Linguaggi più utilizzati>
         ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github_dark)
 </td>
     <td width="50%" align="center" valign="top">
