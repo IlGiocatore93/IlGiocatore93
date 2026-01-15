@@ -9,12 +9,23 @@
 
 
 
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📊 Linguaggi più utilizzati</h3>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&theme=github_dark"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🧰 Other tools used</h3>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark"
+      />
+    </td>
+  </tr>
+</table>
 
-### 📊 Linguaggi più utilizzati
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&theme=github_dark" />
-
-### 🧰 Altri tool utilizzati
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark" />
 
   
 
