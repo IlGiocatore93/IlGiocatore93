@@ -8,15 +8,22 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
 
 ### 📊 Linguaggi più utilizzati
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&theme=github_dark)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&theme=github_dark" />
 
-### 📊 Altri tool utilizzati – Donut Vertical
+    </td>
+    <td width="50%" align="center">
 
-![Top Langs Donut Vertical](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark)
+### 🧰 Other tools used
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=donut-vertical&langs_count=8&theme=github_dark" />
 
-
+    </td>
+  </tr>
+</table>
 
 
 
