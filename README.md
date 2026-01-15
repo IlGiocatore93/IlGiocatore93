@@ -11,7 +11,8 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github_dark)
 
 
-<img src="https://metrics.lecoq.io/IlGiocatore93" />
+<img src="https://metrics.lecoq.io/IlGiocatore93?template=classic&languages=1&languages.details=percentage&languages.other=true" />
+
 
 
 
