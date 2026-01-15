@@ -49,7 +49,9 @@
       <b>Web / SEO / Design:</b><br>
       <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
       <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="35" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" height="35"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="35" />
+ 
+" height="35"/>
       <br>
       <b>Repository:</b><br>
       <img src="https://skillicons.dev/icons?i=git,github" />
