@@ -38,6 +38,9 @@
       <br>
       <b>Editor di Testo:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
+      <br>
+      <b>NodeRed:</b><br>
+      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="45" />
     </td>
     <td valign="top" width="45%">
       <b>Database:</b><br>
