@@ -20,7 +20,8 @@
   <tr>
     <td valign="top" width="55%">
       <b>Linguaggi:</b><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,r&theme=light" />
+      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" />
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio&theme=light" />
