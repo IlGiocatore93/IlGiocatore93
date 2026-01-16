@@ -57,6 +57,9 @@
       <br>
       <b>Repository:</b><br>
       <img src="https://skillicons.dev/icons?i=git,github" />
+      <br>
+      <b>API:</b><br>
+      <img src="https://logowiki.net/uploads/logo/p/postman.svg" alt="Postman" height="45"/>
     </td>
   </tr>
 </table>
