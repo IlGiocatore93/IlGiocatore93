@@ -12,8 +12,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
 
-### 📈 Linguaggi – percentuali reali
-<img src="https://metrics.lecoq.io/IlGiocatore93?template=classic&languages=1&languages.details=percentage&languages.limit=8&languages.other=true&languages.recent.load=300&languages.recent.days=365&theme=dark&config.timezone=Europe/Rome" />
+
 
 
 
