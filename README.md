@@ -2,7 +2,8 @@
 
 <h3><em>👋 Ciao, sono Giovanni!</em></h3>
 
-<hr>
+<hr style="border: 0; height: 5px; background-color: #444444;">
+
 💻 Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma!  
 
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
