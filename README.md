@@ -14,7 +14,7 @@
 
 
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
-<hr>
+<hr style="border: 0; height: 5px; background: #555; margin-top: -15px;">
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi:</b><br><br>
