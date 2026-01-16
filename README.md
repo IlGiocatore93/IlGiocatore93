@@ -43,7 +43,11 @@
 
 <tr>
 <td align="center"><b>Framework:</b><br><br>
+<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
 <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" />
+
 </td>
 
 <td align="center"><b>Web / SEO / Design:</b><br><br>
