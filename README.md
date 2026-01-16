@@ -9,10 +9,12 @@
 
 
 ### 📊 Linguaggi principali (overview)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
+
 
 ### 📈 Linguaggi – percentuali reali
-<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage&languages.other=true" />
+<img src="https://metrics.lecoq.io/IlGiocatore93?template=classic&languages=1&languages.details=percentage&languages.limit=10&languages.other=true&theme=dark&config.timezone=Europe/Rome" />
+
 
 
 
