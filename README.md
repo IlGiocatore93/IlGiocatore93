@@ -28,7 +28,7 @@
 
 <table width="100%" align="center" height="20%">
   <tr>
-    <td valign="top" width="45%">
+    <td valign="top" width="80%">
       <b>Linguaggi:</b><br>
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
       <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />
