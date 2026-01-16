@@ -22,7 +22,7 @@
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,r&theme=light" />
       <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   
+      <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" />   
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio&theme=light" />
