@@ -47,10 +47,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="40" />
       <br>
       <b>Editor di Testo:</b><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="40" />
       <br>
       <b>Tools:</b><br>
-      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="45" />
+      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="40" />
     </td>
     <td valign="top" width="45%">
       <b>Database:</b><br>
