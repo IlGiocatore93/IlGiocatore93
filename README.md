@@ -8,8 +8,12 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
-         
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github_dark)
+### 📊 Linguaggi principali (overview)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact)
+
+### 📈 Linguaggi – percentuali reali
+<img src="https://metrics.lecoq.io/IlGiocatore93?languages=1&languages.details=percentage&languages.other=true" />
+
 
 
 
