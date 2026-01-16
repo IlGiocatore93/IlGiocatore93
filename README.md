@@ -26,6 +26,10 @@
 <td width="50%" valign="top" align="center"><b>Database:</b><br><br>
 <img src="https://skillicons.dev/icons?i=mysql&theme=light">
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
+<img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" />
+
+
 </td>
 </tr>
 
@@ -33,6 +37,7 @@
 <td align="center"><b>IDE:</b><br><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45">
+  
 </td>
 
 <td align="center"><b>Container & Virtualizzazione:</b><br><br>
