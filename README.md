@@ -26,9 +26,9 @@
 
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
 
-<table width="100%" align="center" height="20%">
+<table width="100%" align="center" height="50%">
   <tr>
-    <td valign="top" width="80%">
+    <td valign="top" width=450%">
       <b>Linguaggi:</b><br>
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
       <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />
