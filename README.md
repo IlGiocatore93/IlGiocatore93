@@ -14,7 +14,7 @@
 
 
 <br>
-###🧰 APPLICATIVI DI RIFERIMENTO:
+__🧰 APPLICATIVI DI RIFERIMENTO:__
 <hr style="border: 0; height: 5px; background-color: #444444;">
 
 
