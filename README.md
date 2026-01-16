@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
 
-
+<br>
 ###🧰 APPLICATIVI DI RIFERIMENTO:
 <hr style="border: 0; height: 5px; background-color: #444444;">
 
