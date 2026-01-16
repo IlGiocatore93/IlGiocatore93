@@ -41,7 +41,7 @@
       <br>
       <b>Framework:</b><br>
       <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" />
-      <img src="https://skillicons.dev/icons?i=dotnet" />
+      <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
       <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="40" />
