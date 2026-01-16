@@ -26,7 +26,7 @@
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="45" />
       <br>
       <b>Framework:</b><br>
       <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light" />
