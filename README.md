@@ -39,7 +39,7 @@
       <br>
       <b>Container & Virtualizzazione:</b><br>
       <img src="https://skillicons.dev/icons?i=docker" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="30"/>
       <br>
       <b>Web / SEO / Design:</b><br>
       <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
