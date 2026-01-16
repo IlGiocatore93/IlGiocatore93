@@ -23,7 +23,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" />
       <br>
       <b>IDE:</b><br>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio&theme=light" />
       <br>
       <b>Framework:</b><br>
       <img src="https://skillicons.dev/icons?i=dotnet,flask" />
