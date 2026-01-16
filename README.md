@@ -16,13 +16,10 @@
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
 <hr>
 
-<table align="center" width="95%">
-<tr>
-<td>
-
-<table width="100%">
+<table width="95%" align="center">
 <tr>
 
+<!-- COLONNA SINISTRA -->
 <td width="50%" valign="top" align="left">
 
 <b>Linguaggi</b><br>
@@ -55,6 +52,7 @@
 
 </td>
 
+<!-- COLONNA DESTRA -->
 <td width="50%" valign="top" align="left">
 
 <b>Database</b><br>
@@ -72,7 +70,7 @@
 
 <br>
 
-<b>Web / Repo / API</b><br>
+<b>Web / Repository / API</b><br>
 <img height="30" src="https://skillicons.dev/icons?i=nginx,wordpress,git,github"/>
 <img height="30" src="https://profilinator.rishav.dev/skills-assets/xampp.png"/>
 <img height="30" src="https://logowiki.net/uploads/logo/p/postman.svg"/>
@@ -82,17 +80,6 @@
 
 </tr>
 </table>
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
 
 
 
