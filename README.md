@@ -13,7 +13,7 @@
 
 
 ### 📈 Linguaggi – percentuali reali
-<img src="https://metrics.lecoq.io/IlGiocatore93?template=classic&languages=1&languages.details=percentage&languages.limit=10&languages.other=true&theme=dark" />
+<img src="https://metrics.lecoq.io/IlGiocatore93?template=classic&languages=1&languages.details=percentage&languages.limit=10&languages.other=true&languages.priority=javascript,html,css,csharp&theme=dark" />
 
 
 
