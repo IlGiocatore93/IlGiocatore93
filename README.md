@@ -49,6 +49,7 @@
       <br>
       <b>Container & Virtualizzazione:</b><br>
       <img src="https://skillicons.dev/icons?i=docker" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" height="45" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25"/>
       <br>
       <b>Web / SEO / Design:</b><br>
