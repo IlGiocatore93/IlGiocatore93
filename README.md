@@ -32,7 +32,7 @@
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,python,cs,js,ts,php,r"/>
       <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />   
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
       <br>
       <b>IDE:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" height="40" /> 
