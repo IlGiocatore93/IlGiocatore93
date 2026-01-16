@@ -25,7 +25,7 @@
       <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="55" />
       <br>
       <b>IDE:</b><br>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio&theme=light" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="40" />
       <br>
       <b>Framework:</b><br>
