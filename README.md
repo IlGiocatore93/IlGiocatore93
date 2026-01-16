@@ -31,8 +31,8 @@
       <b>Framework:</b><br>
       <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
       <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="50" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="50" />
       <br>
       <b>Editor di Testo:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
