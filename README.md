@@ -22,7 +22,7 @@
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" />
       <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" />
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="55" />
       <br>
       <b>IDE:</b><br>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rstudio&theme=light" />
