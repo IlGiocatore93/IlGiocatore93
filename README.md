@@ -13,68 +13,64 @@
 
 
 
-<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
-<hr>
+<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
+
 <table width="100%" align="center">
 <tr>
-<td valign="top" width="55%">
-<div style="min-height:120px">
-<b>Linguaggi:</b><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" />
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="45" />
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55" />
-</div>
-<div style="min-height:90px">
-<b>IDE:</b><br>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" />
-</div>
-<div style="min-height:120px">
-<b>Framework:</b><br>
-<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
-<img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" />
-</div>
-<div style="min-height:70px">
-<b>Editor di Testo:</b><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48" />
-</div>
-<div style="min-height:70px">
-<b>Tools:</b><br>
-<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" />
-</div>
+<td width="50%" valign="top" align="center"><b>Linguaggi</b><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55">
 </td>
-<td valign="top" width="45%">
-<div style="min-height:120px">
-<b>Database:</b><br>
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" />
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
-<img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" />
-</div>
-<div style="min-height:90px">
-<b>Container & Virtualizzazione:</b><br>
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25"/>
-</div>
-<div style="min-height:120px">
-<b>Web / SEO / Design:</b><br>
-<img src="https://skillicons.dev/icons?i=nginx,wordpress" />
-<img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="50"/>
-</div>
-<div style="min-height:70px">
-<b>Repository:</b><br>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</div>
-<div style="min-height:70px">
-<b>API:</b><br>
-<img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45"/>
-</div>
+
+<td width="50%" valign="top" align="center"><b>Database</b><br><br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=light">
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50">
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>IDE</b><br><br>
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45">
+</td>
+
+<td align="center"><b>Container & Virtualizzazione</b><br><br>
+<img src="https://skillicons.dev/icons?i=docker">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25">
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Framework</b><br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light">
+</td>
+
+<td align="center"><b>Web / SEO / Design</b><br><br>
+<img src="https://skillicons.dev/icons?i=nginx,wordpress">
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Editor di Testo</b><br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48">
+</td>
+
+<td align="center"><b>Repository</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github">
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b><br><br>
+<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50">
+</td>
+
+<td align="center"><b>API</b><br><br>
+<img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
 </td>
 </tr>
 </table>
+
 
 
 
