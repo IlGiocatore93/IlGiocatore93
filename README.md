@@ -14,7 +14,7 @@
 
 ###🧰 APPLICATIVI DI RIFERIMENTO:
 
-<hr style="border: 0; height: 5px; background-color: #666666;">
+<hr style="border: 0; height: 5px; background-color: #444444;">
 
 
 <table width="100%" align="center">
