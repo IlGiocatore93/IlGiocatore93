@@ -13,8 +13,6 @@
 
 
 
-<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
-
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi:</b><br><br>
