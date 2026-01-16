@@ -16,8 +16,6 @@
 
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
 <table width="100%" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-        <tr><td>
 <b>Linguaggi</b><br>
 <img height="32" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
 <img height="32" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/>
@@ -41,10 +39,7 @@
 <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"/>
 <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png"/>
 <img height="36" src="https://nodered.org/about/resources/media/node-red-icon-2.svg"/>
-        </td></tr>
-      </table>
-    </td>
-        <tr><td>
+<br><br>
 <b>Database</b><br>
 <img height="36" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
 <img height="36" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"/>
@@ -64,11 +59,9 @@
 <b>Repository & API</b><br>
 <img height="36" src="https://skillicons.dev/icons?i=git,github"/>
 <img height="36" src="https://logowiki.net/uploads/logo/p/postman.svg"/>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
+</td></tr>
 </table>
+ 
 
 
 
