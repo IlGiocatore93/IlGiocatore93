@@ -45,6 +45,7 @@
       <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
       <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />
       <br>
       <b>Container & Virtualizzazione:</b><br>
       <img src="https://skillicons.dev/icons?i=docker" />
