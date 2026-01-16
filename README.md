@@ -17,55 +17,55 @@
 
 <table width="100%" align="center">
 <tr>
-<td width="50%" valign="top" align="center"><b>Linguaggi</b><br><br>
+<td width="50%" valign="top" align="center"><b>Linguaggi:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55">
 </td>
 
-<td width="50%" valign="top" align="center"><b>Database</b><br><br>
+<td width="50%" valign="top" align="center"><b>Database:</b><br><br>
 <img src="https://skillicons.dev/icons?i=mysql&theme=light">
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>IDE</b><br><br>
+<td align="center"><b>IDE:</b><br><br>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45">
 </td>
 
-<td align="center"><b>Container & Virtualizzazione</b><br><br>
+<td align="center"><b>Container & Virtualizzazione:</b><br><br>
 <img src="https://skillicons.dev/icons?i=docker">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Framework</b><br><br>
+<td align="center"><b>Framework:</b><br><br>
 <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light">
 </td>
 
-<td align="center"><b>Web / SEO / Design</b><br><br>
+<td align="center"><b>Web / SEO / Design:</b><br><br>
 <img src="https://skillicons.dev/icons?i=nginx,wordpress">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Editor di Testo</b><br><br>
+<td align="center"><b>Editor di Testo:</b><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48">
 </td>
 
-<td align="center"><b>Repository</b><br><br>
+<td align="center"><b>Repository:</b><br><br>
 <img src="https://skillicons.dev/icons?i=git,github">
 </td>
 </tr>
 
 <tr>
-<td align="center"><b>Tools</b><br><br>
+<td align="center"><b>Tools:</b><br><br>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50">
 </td>
 
-<td align="center"><b>API</b><br><br>
+<td align="center"><b>API:</b><br><br>
 <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
 </td>
 </tr>
