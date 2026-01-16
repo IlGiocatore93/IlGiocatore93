@@ -13,74 +13,65 @@
 
 
 
-<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
-<hr>
+<h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h2>
 
-<table width="95%" align="center">
-<tr>
-
-<!-- COLONNA SINISTRA -->
-<td width="50%" valign="top" align="left">
-
-<b>Linguaggi</b><br>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/python-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/r.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"/>
-
-<br>
-
-<b>IDE</b><br>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg"/>
-
-<br>
-
-<b>Framework & Tooling</b><br>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/flask.png"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/powershell.png"/>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"/>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png"/>
-<img height="30" src="https://nodered.org/about/resources/media/node-red-icon-2.svg"/>
-
-</td>
-
-<!-- COLONNA DESTRA -->
-<td width="50%" valign="top" align="left">
-
-<b>Database</b><br>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"/>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg"/>
-
-<br>
-
-<b>Container / Virtualizzazione</b><br>
-<img height="30" src="https://skillicons.dev/icons?i=docker"/>
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
-<img height="22" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"/>
-
-<br>
-
-<b>Web / Repository / API</b><br>
-<img height="30" src="https://skillicons.dev/icons?i=nginx,wordpress,git,github"/>
-<img height="30" src="https://profilinator.rishav.dev/skills-assets/xampp.png"/>
-<img height="30" src="https://logowiki.net/uploads/logo/p/postman.svg"/>
-<img height="30" src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png"/>
-
-</td>
-
-</tr>
+<table width="100%" align="center" height="20%">
+  <tr>
+    <td valign="top" width=450%">
+      <b>Linguaggi:</b><br>
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" />   
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />
+      <br>
+      <b>IDE:</b><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" height="40" /> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" height="40" />
+      <br>
+      <b>Framework:</b><br>
+      <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
+      <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="Json" height="40" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" alt="Tkinter" height="40" />
+      <br>
+      <b>Editor di Testo:</b><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="45" />
+      <br>
+      <b>Tools:</b><br>
+      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="40" />
+    </td>
+    <td valign="top" width="45%">
+      <b>Database:</b><br>
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="50"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />
+      <br>
+      <b>Container & Virtualizzazione:</b><br>
+      <img src="https://skillicons.dev/icons?i=docker" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Virtualbox" height="45" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25"/>
+      <br>
+      <b>Web / SEO / Design:</b><br>
+      <img src="https://skillicons.dev/icons?i=nginx,wordpress" />
+      <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" />
+      <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" alt="Miro" height="45"/>
+      <br>
+      <b>Repository:</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github" />
+      <br>
+      <b>API:</b><br>
+      <img src="https://logowiki.net/uploads/logo/p/postman.svg" alt="Postman" height="45"/>
+    </td>
+  </tr>
 </table>
-
-
 
 
