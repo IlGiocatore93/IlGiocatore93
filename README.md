@@ -17,8 +17,6 @@
 <h2 align="center">🧰 APPLICATIVI DI RIFERIMENTO</h2>
 <table width="100%" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <table width="100%" cellpadding="18">
         <tr><td>
 <b>Linguaggi</b><br>
 <img height="32" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"/>
@@ -46,8 +44,6 @@
         </td></tr>
       </table>
     </td>
-    <td width="50%" valign="top">
-      <table width="100%" cellpadding="18">
         <tr><td>
 <b>Database</b><br>
 <img height="36" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"/>
