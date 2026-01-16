@@ -31,16 +31,16 @@
     <td valign="top" width="45%">
       <b>Linguaggi:</b><br>
       <img src="https://skillicons.dev/icons?i=r"/>
-      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" />
-      <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />   
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+      <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="30" />
+      <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="30" />   
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />
       <br>
       <b>IDE:</b><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" height="40" /> 
