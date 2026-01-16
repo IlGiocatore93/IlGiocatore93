@@ -19,6 +19,7 @@
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55">
 </td>
 
