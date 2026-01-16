@@ -23,7 +23,6 @@
 
 <table align="center" width="100%" cellpadding="12">
   <tr>
-    <!-- COLONNA SINISTRA -->
     <td valign="top" width="50%">
       <b>Linguaggi:</b><br>
       <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="30" />
@@ -75,7 +74,6 @@
       <b>Repository:</b><br>
       <img src="https://skillicons.dev/icons?i=git,github" />
       <br><br>
-
       <b>API:</b><br>
       <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45" />
     </td>
