@@ -12,21 +12,24 @@
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+
+<td width="60%" align="center" style="padding: 15px;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="180"
+    height="190"
   />
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center" style="padding: 15px;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="180"
+    height="190"
   />
 </td>
+
 </tr>
 </table>
+
 
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" alt="Profile Views">
 </p>
