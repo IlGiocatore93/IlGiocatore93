@@ -10,10 +10,24 @@
 
 
 
-### 📊 Linguaggi principali (overview):
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
-![Giovanni GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true) 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</td>
+
+<td width="50%" align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+</td>
+</tr>
+</table>
+
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
