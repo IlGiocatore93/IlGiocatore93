@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers" />
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffcc00&show_stars=true" alt="Total Stars" height="35"/>
+
 </p>
 
 
