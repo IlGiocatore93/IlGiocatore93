@@ -34,6 +34,10 @@
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
+</p>
 
 
 
