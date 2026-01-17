@@ -28,7 +28,8 @@
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
 
   <!-- Stars totali (solo stars, compatto) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&hide=issues,prs,commits,repos,followers,forks&show_icons=true&count_private=false&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffcc00&include_all_commits=false&show_stars=true" alt="Total Stars" height="35"/>
+  <img src="https://img.shields.io/github/stars/IlGiocatore93/NOME_REPO?style=flat-square&label=Stars&color=ffcc00" />
+
 </p>
 
 
