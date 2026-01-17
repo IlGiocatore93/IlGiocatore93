@@ -39,10 +39,13 @@
 
 </p>
 
-  ![GitHub followers](https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers)
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers" />
+  <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
+</p>
 
 
 
