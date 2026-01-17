@@ -23,7 +23,7 @@
 <td width="40%" align="center" style="padding: 15px;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="190"
+    height="210"
   />
 </td>
 
