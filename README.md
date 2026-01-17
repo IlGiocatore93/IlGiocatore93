@@ -31,7 +31,6 @@
 </table>
 
 
-  <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 <p align="center">
