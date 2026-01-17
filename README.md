@@ -22,9 +22,10 @@
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers&color=blue" />
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/README.MD?style=flat-square&label=Watchers&color=orange" />
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
+  <img src"https://img.shields.io/github/commit-activity/m/IlGiocatore93/README.md?style=flat-square" />
+
 </p>
 
-![Repositories](https://img.shields.io/github/repos/IlGiocatore93?style=flat-square&label=Repositories&color=blue)
 
 
 
