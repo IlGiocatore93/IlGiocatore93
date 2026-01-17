@@ -8,6 +8,11 @@
 💻 Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma! / Cloud-DevOps student, fascinated by IT and tech in all its forms!
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!
 
+💻 **Studente Cloud-DevOps / Cloud-DevOps Student**  
+📌 **Appassionato di tech, automazione e sviluppo software / Passionate about tech, automation, and software development**  
+🚀 **Sempre pronto a imparare e condividere esperienze / Always ready to learn and share experiences**
+
+
 <br>
 <h3 align="center"> 📊 Linguaggi principali (overview):</h3>
 <p align="center">
