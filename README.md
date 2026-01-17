@@ -27,7 +27,7 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
 
- ![Commit activity (month)](https://img.shields.io/github/commit-activity/m/IlGiocatore93/NOME_REPO?style=flat-square)
+  ![Commits since v1.0.0](https://img.shields.io/github/commits-since/IlGiocatore93/NOME_REPO/v1.0.0?style=flat-square)
 
 
 </p>
