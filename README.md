@@ -41,7 +41,7 @@
 
 <table width="100%" align="center">
 <tr>
-<td width="50%" valign="top" align="center"><b>Linguaggi:</b><br><br>
+<td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55">
@@ -64,7 +64,7 @@
   
 </td>
 
-<td align="center"><b>Container & Virtualizzazione:</b><br><br>
+<td align="center"><b>Container & Virtualizzazione / Containers & Virtualization:</b><br><br>
 <img src="https://skillicons.dev/icons?i=docker">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25">
@@ -89,7 +89,7 @@
 </tr>
 
 <tr>
-<td align="center"><b>Editor di Testo:</b><br><br>
+<td align="center"><b>Editor di Testo / Text Editors:</b><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48">
 </td>
 
