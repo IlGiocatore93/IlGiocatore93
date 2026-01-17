@@ -12,7 +12,6 @@
 
 <table width="100%">
 <tr>
-<td width="60%" align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
     height="190"
