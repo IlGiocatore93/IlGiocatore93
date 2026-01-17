@@ -12,21 +12,12 @@
 
 <table width="100%">
 <tr>
-
 <td width="60%" align="center" style="padding: 15px;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
     height="190"
   />
 </td>
-
-<td width="40%" align="center" style="padding: 15px;">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="210"
-  />
-</td>
-
 </tr>
 </table>
 
@@ -35,11 +26,7 @@
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers" />
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
-
-
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IlGiocatore93)
-
 
 
 
