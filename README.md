@@ -3,11 +3,11 @@
 <h3><em>👋 Ciao, sono Giovanni!</em></h3>
 
 <hr style="border: 0; height: 5px; background-color: #444444;">
-
-💻 Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma! / Cloud-DevOps student, fascinated by IT and tech in all its forms!  
-📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!
-  
-
+💡 (About Me / Chi Sono)
+💻 Studente Cloud-DevOps, affascinato dall'Informatica e dal tech in ogni sua forma!
+📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
+💻  Cloud-DevOps student, fascinated by IT and tech in all its forms!  
+📌 Always ready to learn something new and improve!
 <br>
 <h3 align="center"> 📊 Linguaggi principali (overview):</h3>
 <p align="center">
