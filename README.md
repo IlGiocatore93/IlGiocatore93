@@ -9,20 +9,24 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
 
-
-<table width="100%" align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="190"
-  />
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+        height="190"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
 </table>
-
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers" />
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
 </p>
+
 
 
 
