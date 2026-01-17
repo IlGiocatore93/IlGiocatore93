@@ -27,8 +27,8 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
 
-  <!-- Stars totali (solo stars, compatto) -->
-  <img src="https://img.shields.io/github/stars/IlGiocatore93/NOME_REPO?style=flat-square&label=Stars&color=ffcc00" />
+ ![Commit activity (month)](https://img.shields.io/github/commit-activity/m/IlGiocatore93/NOME_REPO?style=flat-square)
+
 
 </p>
 
