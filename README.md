@@ -17,21 +17,18 @@
   />
 </p>
 
-<p align="center">
-  <!-- Followers -->
+
+  <p align="center">
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers&color=blue" />
-
-  <!-- Watchers di una repo (sostituisci NOME_REPO) -->
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers&color=orange" />
-
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
+  <img src="https://img.shields.io/github/repos/IlGiocatore93?style=flat-square&label=Repositories&color=blue" />
+</p>
 
 
 
 </p>
 
-  ![Commits since v1.0.0](https://img.shields.io/github/commits-since/IlGiocatore93/NOME_REPO/v1.0.0?style=flat-square)
 
 
 <hr style="border: 0; height: 5px; background-color: #444444;">
