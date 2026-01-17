@@ -12,10 +12,10 @@
 ### 📊 Linguaggi principali (overview):
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
 
-
+<hr style="border: 0; height: 5px; background-color: #444444;">
 <br>
 <h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO:</h3>
-<hr style="border: 0; height: 5px; background-color: #444444;">
+
 
 
 <table width="100%" align="center">
