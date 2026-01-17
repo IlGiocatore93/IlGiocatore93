@@ -8,9 +8,9 @@
 
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare!
 
-<br><br>
-
+<br>
 <h3 align="center"> 📊 Linguaggi principali (overview):</h3>
+<br>
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
