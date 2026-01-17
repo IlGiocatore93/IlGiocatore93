@@ -12,9 +12,7 @@
 
 ### 📊 Linguaggi principali (overview):
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true)
-</td> <td width="50%" align="center"> 
 ![Giovanni GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IlGiocatore93&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true) 
-</td> </tr> </table>
 
 
 
