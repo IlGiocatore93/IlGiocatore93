@@ -30,6 +30,7 @@
 
 
 
+![Repositories](https://img.shields.io/github/repos/IlGiocatore93?style=flat-square&label=Repositories&color=blue)
 
 
 
