@@ -11,7 +11,6 @@
 📌**Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!**
 
 
-<br>
 <h3 align="center"> 📊 Linguaggi principali (overview):</h3>
 <p align="center">
   <img
