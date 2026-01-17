@@ -9,7 +9,7 @@
 📌 Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!
 
 💻 **Studente Cloud-DevOps / Cloud-DevOps Student**  
-📌 **affascinato dall'Informatica e dal tech in ogni sua forma! / Cloud-DevOps student, fascinated by IT and tech in all its forms!**  
+📌 **Affascinato dall'Informatica e dal tech in ogni sua forma! / Cloud-DevOps student, fascinated by IT and tech in all its forms!**  
 🚀 **Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!**
 
 
