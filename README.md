@@ -37,8 +37,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=blue" />
   <img src="https://img.shields.io/github/watchers/IlGiocatore93/NOME_REPO?style=flat-square&label=Watchers" />
+
 </p>
 
+  ![GitHub followers](https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers)
 
 
 
