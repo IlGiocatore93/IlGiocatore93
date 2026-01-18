@@ -33,7 +33,9 @@
 
   <p align="center">
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&label=Followers&color=blue" />
-  <img src="https://img.shields.io/github/watchers/IlGiocatore93/README.MD?style=flat-square&label=Watchers&color=orange" />
+  <a href="https://github.com/IlGiocatore93?tab=repositories">
+  <img src="https://img.shields.io/github/repo-count/IlGiocatore93?style=flat-square&label=Repositories&color=blue" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
   <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/README.md?style=flat-square&label=Commits&color=pink" />
 </p>
