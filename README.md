@@ -42,7 +42,6 @@
 <td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="45" />
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="55">
 </td>
 
 <td width="50%" valign="top" align="center"><b>Database:</b><br><br>
@@ -99,6 +98,7 @@
 <tr>
 <td align="center"><b>Tools:</b><br><br>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50">
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60">
 </td>
 
 <td align="center"><b>API:</b><br><br>
