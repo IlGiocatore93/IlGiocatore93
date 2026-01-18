@@ -3,7 +3,7 @@
 <h3><em>👋 Ciao, sono Giovanni!/ Hi, I’m Giovanni!</em></h3>
 
 <hr style="border: 0; height: 5px; background-color: #444444;">
-💡 (About Me / Chi Sono:)
+💡 <em>(About Me / Chi Sono:)</em>
 <br><br>
 
 💻**Studente Cloud-DevOps / Cloud-DevOps Student**  
