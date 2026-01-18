@@ -38,7 +38,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
   <a href="https://github.com/IlGiocatore93/README.md/commits/main">
-  <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/README.md?style=flat-square&label=Commits&color=purple" />
+  <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/README.md?style=flat-square&label=Commits&color=pink" />
 </a>
 
 </p>
