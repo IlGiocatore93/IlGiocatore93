@@ -16,8 +16,8 @@
 / I design, automate and optimize systems using cloud technologies and modern DevOps practices.**
 
 ⭐ **Featured Projects**
-- 🚀 **Diabetes values App** – Bash & C# scripts for environment setup
-- 📊 **My WebSite** – Javascript or Html scripts for the creation setup
+- 🩺 **Diabetes values App** – Bash & C# scripts for environment setup
+- 🌐 **My WebSite** – Javascript or Html scripts for the creation setup
 
 
 
