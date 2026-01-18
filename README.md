@@ -9,6 +9,7 @@
 💻**Studente Cloud-DevOps / Cloud-DevOps Student**  
 🚀**Affascinato dall'Informatica e dal tech in ogni sua forma! / Fascinated by IT and tech in all its forms!**
 📌**Sempre pronto a imparare qualcosa di nuovo e a migliorare! / Always ready to learn something new and improve!**
+
 🔧 **Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne 
 / I design, automate and optimize systems using cloud technologies and modern DevOps practices.**
 
