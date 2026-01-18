@@ -42,6 +42,7 @@
 <td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light"><br>
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
 </td>
 
 <td width="50%" valign="top" align="center"><b>Database:</b><br><br>
@@ -70,7 +71,6 @@
 
 <tr>
 <td align="center"><b>Framework:</b><br><br>
-<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="50" />
 <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" />
