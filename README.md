@@ -15,6 +15,11 @@
 🔧 **Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne 
 / I design, automate and optimize systems using cloud technologies and modern DevOps practices.**
 
+⭐ **Featured Projects**
+- 🚀 **Diabetes values Toolkit** – Bash & C# scripts for environment setup
+- 📊 **My WebSite** – Javascript or Html scripts for the creation setup
+
+
 
 <h3 align="center"> 📊 Linguaggi principali (overview):</h3>
 <p align="center">
