@@ -79,8 +79,9 @@
 
 <tr>
 <td align="center"><b>IDE:</b><br><br>
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45">
+<img src="https://skillicons.dev/icons?i=visualstudio&theme=light" title="VisualStudio" alt="visualstudio" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VisualStudioCode" alt="visualstudiocode" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" title="RStudio" alt="rstudio" height="45" />
   
 </td>
 
