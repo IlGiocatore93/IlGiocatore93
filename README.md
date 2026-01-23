@@ -68,10 +68,10 @@
 </td>
 
 <td width="50%" valign="top" align="center"><b>Database:</b><br><br>
-<img src="https://skillicons.dev/icons?i=mysql&theme=light">
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48"/>
-<img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySql" alt="mysql" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" title="Neo4J" alt="neo4j" width="48" />
+<img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" title="Cassandra" alt="cassandra" height="50" />
 
 
 </td>
