@@ -55,14 +55,14 @@
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
-<img src="https://skillicons.dev/icons?i=html&theme=light" title="Html" alt="html" height="45" />
-<img src="https://skillicons.dev/icons?i=css&theme=light" title="Css" alt="css" height="45" />
-<img src="https://skillicons.dev/icons?i=js&theme=light" title="Javascript" alt="js" height="45" />
-<img src="https://skillicons.dev/icons?i=ts&theme=light" title="Typescript" alt="ts" height="45" />
-<img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="python" height="45" />
-<img src="https://skillicons.dev/icons?i=cs&theme=light" title="C#" alt="cs" height="45" />
-<img src="https://skillicons.dev/icons?i=php&theme=light" title="Php" alt="php" height="45" />
-<img src="https://skillicons.dev/icons?i=r&theme=light" title="R" alt="r" height="45" />
+<img src="https://skillicons.dev/icons?i=html&theme=light" title="Html" alt="html" height="50" />
+<img src="https://skillicons.dev/icons?i=css&theme=light" title="Css" alt="css" height="50" />
+<img src="https://skillicons.dev/icons?i=js&theme=light" title="Javascript" alt="js" height="50" />
+<img src="https://skillicons.dev/icons?i=ts&theme=light" title="Typescript" alt="ts" height="50" />
+<img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="python" height="50" />
+<img src="https://skillicons.dev/icons?i=cs&theme=light" title="C#" alt="cs" height="50" />
+<img src="https://skillicons.dev/icons?i=php&theme=light" title="Php" alt="php" height="50" />
+<img src="https://skillicons.dev/icons?i=r&theme=light" title="R" alt="r" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" title="Bash" alt="bash" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" alt="powershell" height="50" />
 </td>
