@@ -94,9 +94,10 @@
 
 <tr>
 <td align="center"><b>Framework:</b><br><br>
-<img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" />
+<img src="https://skillicons.dev/icons?i=dotnet&theme=light" title="Dotnet" alt="dotnet" height="50" />
+<img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" alt="flask" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" title="JSON" alt="json" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" title="Tkinter" alt="tkinter" height="45" />
 
 </td>
 
