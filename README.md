@@ -102,31 +102,33 @@
 </td>
 
 <td align="center"><b>Web / SEO / Design:</b><br><br>
-<img src="https://skillicons.dev/icons?i=nginx,wordpress">
-<img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="50"/>
-<img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="nginx" height="50" />
+<img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" alt="wordpress" height="50" />
+<img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" title="Miro" alt="miro" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/xampp.png" title="XAMPP" alt="xampp" height="50" />
 
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Editor di Testo / Text Editors:</b><br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="48" />
 </td>
 
 <td align="center"><b>Repository:</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github">
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="50" />
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="50" />
 </td>
 </tr>
 
 <tr>
 <td align="center"><b>Tools:</b><br><br>
-<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60">
+<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="node.js" height="60" />
 </td>
 
 <td align="center"><b>API:</b><br><br>
-<img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
+<img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="postman" height="45" />
 </td>
 </tr>
 </table>
