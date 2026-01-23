@@ -55,7 +55,7 @@
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r" alt="html,css,js,ts,python,cs,php,r""><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r""><br>
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" title="Bash" alt="bash" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" alt="powershell" height="50" />
 </td>
