@@ -56,8 +56,8 @@
 <tr>
 <td width="50%" valign="top" align="center"><b>Linguaggi/ Languages:</b><br><br>
 <img src="https://skillicons.dev/icons?i=html&theme=light" title="Html" alt="html" height="45" />
-<img src="https://skillicons.dev/icons?i=css&theme=light" title="Css" alt="css"><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r""><br>
+<img src="https://skillicons.dev/icons?i=css&theme=light" title="Css" alt="css" height="45" />
+<img src="https://skillicons.dev/icons?i=js&theme=light" title="Js" alt="js" height="45" />
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r""><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r""><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light title="html,css,js,ts,python,cs,php,r""><br>
