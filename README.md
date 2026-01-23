@@ -86,9 +86,9 @@
 </td>
 
 <td align="center"><b>Container & Virtualizzazione / Containers & Virtualization:</b><br><br>
-<img src="https://skillicons.dev/icons?i=docker">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25">
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="virtualbox" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"  title="Vmware" alt="vmware" height="25" />
 </td>
 </tr>
 
