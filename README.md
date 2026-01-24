@@ -121,11 +121,9 @@
 </tr>
 
 <tr>
-<td align="center">
- <div style="font-weight:bold; padding-bottom:6px; border-bottom:1px solid #d0d7de;">
-    Tools
-  </div>
-  <br></br>
+<td align="center" valign="top">
+  <b>Tools</b>
+<hr style="border:0; border-top:1px solid #d0d7de; width:80%; margin:6px auto;">
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="node.js" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Command Prompt" alt="cmd" width="65" />
