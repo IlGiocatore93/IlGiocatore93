@@ -124,7 +124,7 @@
 
 
 
-<table width="100%" align="center">
+<table align="center">
 <tr>
 <td align="center"><b>Tools</b></td>
 <td align="center"><b>API</b></td>
@@ -135,7 +135,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65">
 </td>
-<td align="center" valign="top">
+<td align="center">
 <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
 </td>
 </tr>
