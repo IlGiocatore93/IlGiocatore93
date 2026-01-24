@@ -63,7 +63,6 @@
 <img src="https://skillicons.dev/icons?i=cs&theme=light" title="C#" alt="cs" height="45" />
 <img src="https://skillicons.dev/icons?i=php&theme=light" title="Php" alt="php" height="45" />
 <img src="https://skillicons.dev/icons?i=r&theme=light" title="R" alt="r" height="45" />
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" title="Bash" alt="bash" height="45" />
 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" alt="powershell" height="45" />
 </td>
 
@@ -125,6 +124,7 @@
 <td align="center"><b>Tools:</b><br><br>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="node.js" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/CMD-Icon_%28small%29.png" title="Command Prompt" alt="cmd" height="45" />
 </td>
 
 <td align="center"><b>API:</b><br><br>
