@@ -114,17 +114,14 @@
 <td width="50%" align="center"><b>Repository:</b></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><br><br>
+<td width="50%" valign="top" align="center"><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="48" />
 </td>
-<td width="50%" valign="top" align="center"><br><br>
+<td width="50%" valign="top" align="center"><br>
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="50" />
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="50" />
 </td>
 </tr>
-
-
-
 
 <tr>
 <td width="50%" align="center"><b>Tools:</b></td>
