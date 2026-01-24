@@ -51,29 +51,6 @@
 <h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE:</h3>
 
 
-<tr>
-<td width="50%" align="center"><b>Linguaggi/ Languages:</b></td>
-<td width="50%" align="center"><b>Database:</b></td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center"><br>
-<img src="https://skillicons.dev/icons?i=html&theme=light" title="Html" alt="html" height="45" />
-<img src="https://skillicons.dev/icons?i=css&theme=light" title="Css" alt="css" height="45" />
-<img src="https://skillicons.dev/icons?i=js&theme=light" title="Javascript" alt="js" height="45" />
-<img src="https://skillicons.dev/icons?i=ts&theme=light" title="Typescript" alt="ts" height="45" />
-<img src="https://skillicons.dev/icons?i=python&theme=light" title="Python" alt="python" height="45" />
-<img src="https://skillicons.dev/icons?i=cs&theme=light" title="C#" alt="cs" height="45" />
-<img src="https://skillicons.dev/icons?i=php&theme=light" title="Php" alt="php" height="45" />
-<img src="https://skillicons.dev/icons?i=r&theme=light" title="R" alt="r" height="45" />
-<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" alt="powershell" height="45" />
-</td>
-<td width="50%" valign="top" align="center"><br>
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySql" alt="mysql" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="mongodb" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" title="Neo4J" alt="neo4j" width="48" />
-<img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" title="Cassandra" alt="cassandra" height="50" />
-</td>
-</tr>
 
 
 <tr>
