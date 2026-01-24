@@ -1,6 +1,6 @@
 <img width="800" height="300" alt="immagineprofilogithub" src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
 
-<h3><em>👋 Ciao, sono Giovanni!/ Hi, I’m Giovanni!</em></h3>
+<h3><em>👋 Ciao, sono Giovanni!/ Hi, I'm Giovanni!</em></h3>
 
 <hr style="border: 0; height: 5px; background-color: #444444;">
 💡 <em>(About Me / Chi Sono:)</em>
@@ -50,7 +50,7 @@
 <br>
 <h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE:</h3>
 
-
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center"><b>Linguaggi/ Languages:</b></td>
 <td width="50%" align="center"><b>Database:</b></td>
@@ -76,7 +76,6 @@
 </td>
 </tr>
 
-
 <tr>
 <td width="50%" align="center"><b>IDE:</b></td>
 <td width="50%" align="center"><b>Container & Virtualizzazione / Containers & Virtualization:</b></td>
@@ -87,6 +86,7 @@
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VisualStudioCode" alt="visualstudiocode" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" title="RStudio" alt="rstudio" height="45" />
 </td>
+
 <td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="virtualbox" height="45" />
@@ -99,14 +99,14 @@
 <td width="50%" align="center"><b>Web / SEO / Design:</b></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=dotnet&theme=light" title="Dotnet" alt="dotnet" height="50" />
 <img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" alt="flask" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" title="JSON" alt="json" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" title="Tkinter" alt="tkinter" height="45" />
 </td>
 
-<td width="50%" valign="top" align="center"><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="nginx" height="50" />
 <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" alt="wordpress" height="50" />
 <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" title="Miro" alt="miro" height="50" />
@@ -119,10 +119,11 @@
 <td width="50%" align="center"><b>Repository:</b></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="48" />
 </td>
-<td width="50%" valign="top" align="center"><br>
+
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="50" />
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="50" />
 </td>
@@ -133,12 +134,15 @@
 <td width="50%" align="center"><b>API:</b></td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center"><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" height="60" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Command Prompt" alt="Command Prompt" width="65" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Windows Terminal" alt="windows-terminal" height="50" />
 </td>
-<td width="50%" valign="top" align="center"><br>
+
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="postman" height="50" />
 </td>
 </tr>
+
+</table>
