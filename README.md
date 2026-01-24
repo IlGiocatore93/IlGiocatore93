@@ -121,6 +121,7 @@
 <tr>
 <td width="60%" valign="top" align="center"><br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png" title="LibreOffice" alt="libreoffice" height="60" />
 </td>
 
 <td width="50%" valign="top" align="center"><br><br>
