@@ -120,7 +120,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top" align="center"><br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" title="Notepad++" alt="notepad++" height="50" />
 </td>
 
 <td width="50%" valign="top" align="center"><br><br>
