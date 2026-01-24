@@ -124,10 +124,10 @@
 
 
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
-<td align="center"><b>Tools</b></td>
-<td align="center"><b>API</b></td>
+<td><b>Tools</b></td>
+<td><b>API</b></td>
 </tr>
 <tr>
 <td align="center" valign="top">
