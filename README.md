@@ -122,8 +122,7 @@
 
 
 
-
-<table width="100%" align="center" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center"><b>Tools</b></td>
 <td width="50%" align="center"><b>API</b></td>
