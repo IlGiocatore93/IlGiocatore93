@@ -125,8 +125,8 @@
 
 <table width="100%" align="center">
 <tr>
-<td width="50%" align="center"><b>Tools</b><br><br></td>
-<td width="50%" align="center"><b>API</b><br><br></td>
+<td width="50%" align="center"><b>Tools</b></td>
+<td width="50%" align="center"><b>API</b></td>
 </tr>
 <tr>
 <td align="center" valign="top">
