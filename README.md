@@ -132,17 +132,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Command Prompt" alt="cmd" width="65" />
 </td>
 
-<td align="center"><b>API:</b><br><br>
-<img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="postman" height="45" />
-</td>
-</tr>
-</table>
-</tr>
-  
-<tr>
-<td align="center" valign="top">
-<img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
-</td>
-</tr>
-</table>
+
 
