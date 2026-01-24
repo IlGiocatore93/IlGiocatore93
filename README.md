@@ -124,23 +124,21 @@
 
 
 
+<hr style="border: 0; height: 5px; background-color: #444444;">
+<br>
+<h3 align="center">🛠️ TOOLS & API:</h3>
 <table width="100%" align="center">
 <tr>
-<td><b>Tools</b></td>
-<td><b>API</b></td>
-</tr>
-<tr>
-<td align="center" valign="top">
-<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65">
+<td width="50%" valign="top" align="center"><b>Tools</b><br><br>
+<img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Windows Terminal" alt="windows-terminal" height="50" />
 </td>
-<td align="center">
-<img src="https://logowiki.net/uploads/logo/p/postman.svg" height="45">
+<td width="50%" valign="top" align="center"><b>API</b><br><br>
+<img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="postman" height="50" />
 </td>
 </tr>
 </table>
-
 
 
 
