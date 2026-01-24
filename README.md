@@ -92,20 +92,22 @@
 </tr>
 
 <tr>
-<td align="center"><b>Framework:</b><br><br>
+<td width="50%" align="center"><b>Framework:</b></td>
+<td width="50%" align="center"><b>Web / SEO / Design:</b></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=dotnet&theme=light" title="Dotnet" alt="dotnet" height="50" />
 <img src="https://skillicons.dev/icons?i=flask&theme=light" title="Flask" alt="flask" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" title="JSON" alt="json" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" title="Tkinter" alt="tkinter" height="45" />
-
 </td>
 
-<td align="center"><b>Web / SEO / Design:</b><br><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="nginx" height="50" />
 <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" alt="wordpress" height="50" />
 <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" title="Miro" alt="miro" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" title="XAMPP" alt="xampp" height="50" />
-
 </td>
 </tr>
 
