@@ -124,13 +124,16 @@
 
 
 <tr>
-<td width="50%" valign="top" align="center"><b>Tools</b><br><br>
+<td width="50%" align="center"><b>Tools</b></td>
+<td width="50%" align="center"><b>API</b></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Windows Terminal" alt="windows-terminal" height="50" />
 </td>
-<td width="50%" valign="top" align="center"><b>API</b><br><br>
+<td width="50%" valign="top" align="center">
 <img src="https://logowiki.net/uploads/logo/p/postman.svg" title="Postman" alt="postman" height="50" />
 </td>
 </tr>
-</table>
