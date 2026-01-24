@@ -121,11 +121,10 @@
 </tr>
 
 
-
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" style="table-layout: fixed;">
 <tr>
-<td width="50%" align="center"><b>Tools</b></td>
-<td width="50%" align="center"><b>API</b></td>
+<td style="width: 50%;" align="center"><b>Tools</b></td>
+<td style="width: 50%;" align="center"><b>API</b></td>
 </tr>
 <tr>
 <td align="center" valign="top">
