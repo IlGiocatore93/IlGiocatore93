@@ -74,7 +74,9 @@
 
 
 </td>
+</tr>
 
+<tr>
 <td align="center"><b>IDE:</b><br><br>
 <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" title="VisualStudio" alt="visualstudio" height="50" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VisualStudioCode" alt="visualstudiocode" height="50" />
