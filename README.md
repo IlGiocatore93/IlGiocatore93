@@ -77,17 +77,19 @@
 </tr>
 
 <tr>
-<td align="center"><b>IDE:</b><br><br>
+<td width="50%" align="center"><b>IDE:</b></td>
+<td width="50%" align="center"><b>Container & Virtualizzazione / Containers & Virtualization:</b></td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" title="VisualStudio" alt="visualstudio" height="50" />
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" title="VisualStudioCode" alt="visualstudiocode" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" title="RStudio" alt="rstudio" height="45" />
-  
 </td>
-
-<td align="center"><b>Container & Virtualizzazione / Containers & Virtualization:</b><br><br>
+<td width="50%" valign="top" align="center"><br><br>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" alt="virtualbox" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"  title="Vmware" alt="vmware" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" title="Vmware" alt="vmware" height="25" />
 </td>
 </tr>
 
