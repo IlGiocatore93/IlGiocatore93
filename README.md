@@ -123,7 +123,7 @@
 
 
 
-<table width="100%" align="center">
+<table width="100%" align="center" cellpadding="20">
 <tr>
 <td width="50%" align="center"><b>Tools</b></td>
 <td width="50%" align="center"><b>API</b></td>
