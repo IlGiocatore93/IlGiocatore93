@@ -139,6 +139,7 @@
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="nodejs" height="60" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" title="Command Prompt" alt="command prompt" width="65" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" title="Putty" alt="putty" width="40" />
 </td>
 
 <td width="50%" valign="top" align="center"><br><br>
