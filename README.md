@@ -123,9 +123,6 @@
 
 
 
-<hr style="border: 0; height: 5px; background-color: #444444;">
-<br>
-<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top" align="center"><b>Tools</b><br><br>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
