@@ -122,10 +122,8 @@
 
 <tr>
 <table width="100%" align="center">
-  <tr>
-    <td align="center"><b>Tools</b></td>
-  </tr>
-<tr>
+</tr>
+    <td align="center" valign="top" colspan="2"><b>Tools</b></td>
 <td>
 <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" title="Node-RED" alt="node-red" height="50" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" title="Node.js" alt="node.js" height="60" />
