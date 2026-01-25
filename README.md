@@ -9,18 +9,18 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <br><br>
 
 💻 <b>Studente Cloud-DevOps</b><br>
-<em>Cloud-DevOps Student</em><br>
+<em>Cloud-DevOps Student</em><br><br>
 
 🚀 <b>Affascinato dall'Informatica e dal tech in ogni sua forma!</b><br>
-<em>Fascinated by IT and tech in all its forms!</em><br>
+<em>Fascinated by IT and tech in all its forms!</em><br><br>
 
 📌 <b>Sempre pronto a imparare qualcosa di nuovo e a migliorare!</b><br>
-<em>Always ready to learn something new and improve!</em><br>
+<em>Always ready to learn something new and improve!</em><br><br>
 
 🔧 <b>Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne.</b><br>
 <em>I design, automate and optimize systems using cloud technologies and modern DevOps practices.</em>
 
-<br>
+<br><br>
 
 ⭐ <b>Featured Projects</b>
 <ul>
