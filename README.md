@@ -85,7 +85,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </picture>
     <picture>
     <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=cassandra&theme=light"height="50" title="Apache Cassandra" />
+    <img src="https://skillicons.dev/icons?i=cassandra&theme=light" height="50" title="Apache Cassandra" />
 </picture>
 
   </td>
