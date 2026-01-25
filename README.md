@@ -22,7 +22,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 <br>
 
-⭐ <b>Featured Projects</b>
+⭐ <b>Featured Projects:</b>
 <ul>
   <li>🩺 <b>Diabetes values App</b> – Bash & C# scripts for environment setup</li>
   <li>🌐 <b>My WebSite</b> – Javascript & HTML setup</li>
