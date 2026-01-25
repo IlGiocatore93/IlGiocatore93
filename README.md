@@ -1,7 +1,7 @@
 <img 
   src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf"
   alt="immagineprofilogithub"
-  style="max-width:80%; height:auto;" 
+  style="max-width:100%; height:auto;" 
 />
 
 <h3><em>👋 Ciao, sono Giovanni! / Hi, I'm Giovanni!</em></h3>
@@ -11,7 +11,6 @@
 💡 <em>(About Me / Chi Sono)</em><br><br>
 
 💻 <b>Studente Cloud-DevOps / Cloud-DevOps Student</b><br><br>
-
 🚀 <b>Affascinato dall'Informatica e dal tech in ogni sua forma!</b><br>
 📌 <b>Sempre pronto a imparare qualcosa di nuovo e a migliorare!</b><br><br>
 
@@ -20,7 +19,7 @@ Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps
 / I design, automate and optimize systems using cloud technologies and modern DevOps practices.
 </b>
 
-<br><br>
+<br>
 
 ⭐ <b>Featured Projects</b>
 <ul>
