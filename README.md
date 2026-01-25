@@ -63,21 +63,21 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="HTML5" />
-    <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="CSS" />
     <img src="https://skillicons.dev/icons?i=js&theme=light" height="45" title="JavaScript" />
     <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
     <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
     <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
     <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
-    <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" title="Powershell" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySql" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" title="Neo4J" height="48" />
-    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" title="Cassandra" height="50" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" title="MySql" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" title="MongoDB" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="48" title="Neo4J" />
+    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" title="Cassandra" />
   </td>
 </tr>
 
@@ -87,13 +87,14 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode&theme=light" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" />
+    <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="50" title="VisualStudio" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VisualStudioCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" title="RStudio" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=docker" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" />
+    <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
   </td>
 </tr>
 
@@ -104,14 +105,16 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=dotnet,flask&theme=light" height="50" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" />
+    <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
+    <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" title="JSON" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=nginx,wordpress" height="50" />
-    <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50" />
+    <img src="https://skillicons.dev/icons?i=nginx" height="50" title="Nginx" />
+    <img src="https://skillicons.dev/icons?i=wordpress" height="50" title="WordPress" />
+    <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="50" title="Miro" />
+    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50" title="XAMPP" />
   </td>
 </tr>
 
@@ -122,13 +125,13 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <tr>
     <td align="center" valign="top" style="padding:12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg"
-         height="60" />
+         height="60" title="Notepad++" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png"
-         height="60" />
+         height="60" title="LibreOffice" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=git" height="50" />
-    <img src="https://skillicons.dev/icons?i=github" height="50" />    
+    <img src="https://skillicons.dev/icons?i=git" height="50" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub" />    
   </td>
 </tr>
 
@@ -138,13 +141,13 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" />
+    <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
+    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60" title="Node.js" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Command Prompt" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="50" />
+    <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="50" title="Postman" />
   </td>
 </tr>
 </table>
