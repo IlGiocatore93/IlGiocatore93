@@ -93,11 +93,11 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
+    <img src="https://skillicons.dev/icons?i=virtualbox" height="45" title="VirtualBox" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
   </td>
 </tr>
-
+https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png
 
 <tr>
   <td align="center"><b>Framework:</b></td>
