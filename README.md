@@ -64,7 +64,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <tr>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" height="45" />
-    <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" />
+    <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" style="Powershell" height="45" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" />
