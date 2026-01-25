@@ -158,7 +158,10 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=git" height="50" title="Git" />
-    <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub" />    
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=github&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=github&theme=light" height="50" title="GitHub" />
+</picture>
   </td>
 </tr>
 
