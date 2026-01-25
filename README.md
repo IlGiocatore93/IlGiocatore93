@@ -42,8 +42,8 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://img.shields.io/github/Followers/IlGiocatore93?style=flat-square&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/github/Followers/IlGiocatore93?style=flat-square" title="GitHub Followers" />
+    <source srcset="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="Followers" />
   </picture>
   <a href="https://github.com/IlGiocatore93?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-red?style=flat-square&logo=github" />
