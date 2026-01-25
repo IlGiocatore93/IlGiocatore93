@@ -110,7 +110,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 <tr>
     <td align="center"><b>Editor di Testo / Text Editors</b></td>
-    <td align="center"><b>Repository</b><br><br>
+    <td align="center"><b>Repository</b><br>
 </tr>
 <tr>
     <td align="center" valign="top" style="padding:12px;">
