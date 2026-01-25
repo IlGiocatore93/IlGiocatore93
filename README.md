@@ -81,7 +81,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </picture>
     <picture>
     <source srcset="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4j Graph Database" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4j" />
 </picture>
     <picture>
     <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
@@ -118,7 +118,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
     <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
     <picture>
     <source srcset="https://simpleskill.icons.workers.dev/svg?i=json&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=json&theme=light" height="45" title="JSON Data Format" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=json&theme=light" height="45" title="JSON" />
 </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
@@ -156,7 +156,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
     <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
     <picture>
     <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js Runtime" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
 </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Command Prompt" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
