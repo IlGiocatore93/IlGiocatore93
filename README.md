@@ -53,13 +53,13 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 <hr style="border:0;height:5px;background-color:#444444;">
 
-<h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE</h3>
+<h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE:</h3>
 
 <table width="100%" align="center">
 
 <tr>
-  <td align="center"><b>Linguaggi / Languages</b></td>
-  <td align="center"><b>Database</b></td>
+  <td align="center"><b>Linguaggi / Languages:</b></td>
+  <td align="center"><b>Database:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
@@ -75,8 +75,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 
 <tr>
-  <td align="center"><b>IDE</b></td>
-  <td align="center"><b>Container & Virtualizzazioni / Container & Virtualization</b></td>
+  <td align="center"><b>IDE:</b></td>
+  <td align="center"><b>Container & Virtualizzazioni / Container & Virtualization:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
@@ -92,8 +92,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 
 <tr>
-  <td align="center"><b>Framework</b></td>
-  <td align="center"><b>Web / SEO / Design</b></td>
+  <td align="center"><b>Framework:</b></td>
+  <td align="center"><b>Web / SEO / Design:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
@@ -109,8 +109,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 
 <tr>
-    <td align="center"><b>Editor di Testo / Text Editors</b></td>
-    <td align="center"><b>Repository</b><br>
+    <td align="center"><b>Editor di Testo / Text Editors:</b></td>
+    <td align="center"><b>Repository:</b><br>
 </tr>
 <tr>
     <td align="center" valign="top" style="padding:12px;">
@@ -126,8 +126,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 
 <tr>
-  <td align="center"><b>Tools</b></td>
-  <td align="center"><b>API</b></td>
+  <td align="center"><b>Tools:</b></td>
+  <td align="center"><b>API:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
