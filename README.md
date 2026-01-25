@@ -114,7 +114,10 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" title="RStudio" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=docker" height="50" title="Docker" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
+  </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
   </td>
