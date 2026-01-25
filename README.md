@@ -63,8 +63,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="HTML" />
-    <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="Html" />
+    <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="Css" />
     <img src="https://skillicons.dev/icons?i=js&theme=light" height="45" title="JavaScript" />
     <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" title="TypeScript" />
     <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
