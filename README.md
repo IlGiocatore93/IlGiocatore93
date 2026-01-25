@@ -30,7 +30,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 <hr style="border:0;height:5px;background-color:#444444;">
 
-<h3 align="center">📊 Linguaggi principali (overview)</h3>
+<h3 align="center">📊 Linguaggi principali (overview):</h3>
 
 <p align="center">
   <img
