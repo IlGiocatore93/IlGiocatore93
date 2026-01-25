@@ -20,7 +20,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 🔧 <b>Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne.</b><br>
 <em>I design, automate and optimize systems using cloud technologies and modern DevOps practices.</em>
 
-<br><br>
+<br>
 
 ⭐ <b>Featured Projects</b>
 <ul>
