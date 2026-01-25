@@ -75,7 +75,13 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" title="MySql" />
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" title="MongoDB" />
+    <picture>
+  <source srcset="https://skillicons.dev/icons?i=mongodb&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light"
+       height="50"
+       title="MongoDB" />
+</picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="48" title="Neo4J" />
     <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" title="Cassandra" />
   </td>
