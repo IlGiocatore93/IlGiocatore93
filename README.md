@@ -151,10 +151,10 @@
         <source srcset="https://svgmix.com/i/yWD7da/black/virtualbox.svg" media="(prefers-color-scheme: dark)" />
         <img src="https://svgmix.com/i/yWD7da/white/virtualbox.svg" height="45" title="VirtualBox" />
     </picture>
-    <picture>
-      <source srcset="https://skillicons.dev/icons?i=vmware&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=vmware&theme=light" height="25" title="VMware" />
-    </picture>
+ <picture>
+  <source srcset="https://svgmix.com/i/401324/black/vmware.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://svgmix.com/i/401324/white/vmware.svg" height="45" title="VMware" />
+</picture>
   </td>
 </tr>
 
