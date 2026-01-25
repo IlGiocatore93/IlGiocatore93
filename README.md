@@ -16,7 +16,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 📌 <b>Sempre pronto a imparare qualcosa di nuovo e a migliorare!</b><br>
 <em>Always ready to learn something new and improve!</em><br><br>
 
-🔧 <b>Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne</b><br>
+🔧 <b>Progetto, automatizzo e ottimizzo sistemi con tecnologie cloud e pratiche DevOps moderne.</b><br>
 <em>I design, automate and optimize systems using cloud technologies and modern DevOps practices.</em>
 
 <br><br>
