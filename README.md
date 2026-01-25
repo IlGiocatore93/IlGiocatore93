@@ -83,7 +83,11 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
     <source srcset="https://skillicons.dev/icons?i=neo4j&theme=dark" media="(prefers-color-scheme: dark)" />
     <img src="https://skillicons.dev/icons?i=neo4j&theme=light" height="50" title="Neo4j Graph Database" />
 </picture>
-    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" title="Cassandra" />
+    <picture>
+    <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://skillicons.dev/icons?i=cassandra&theme=light"height="50" title="Apache Cassandra" />
+</picture>
+
   </td>
 </tr>
 
