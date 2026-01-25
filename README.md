@@ -133,7 +133,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="50" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
