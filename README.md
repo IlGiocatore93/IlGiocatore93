@@ -119,21 +119,12 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 
 <tr>
-  <td style="padding:8px 0;border-top:1px solid #d0d7de;"></td>
-</tr>
-
-<tr>
   <td align="center">
     <b>Repository</b><br><br>
     <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:6px;">
     <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:6px;">
   </td>
 </tr>
-
-<tr>
-  <td style="padding:12px 0;border-top:1px solid #444;"></td>
-</tr>
-
 
 <tr>
   <td align="center"><b>Tools</b></td>
