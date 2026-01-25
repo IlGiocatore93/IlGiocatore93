@@ -74,7 +74,10 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   <source srcset="https://skillicons.dev/icons?i=python&theme=dark" media="(prefers-color-scheme: dark)" />
   <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
 </picture>
-    <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
+    <picture>
+  <source srcset="https://skillicons.dev/icons?i=cs&theme=dark" media="(prefers-color-scheme: dark)" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
+</picture>
     <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
     <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
     <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" title="Powershell" />
