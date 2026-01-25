@@ -147,8 +147,8 @@
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
     </picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
+    <img src="./assets/virtualbox.png" height="45" title="VirtualBox" />
+    <img src="./assets/vmware.png" height="45" title="VMware" />
   </td>
 </tr>
 
