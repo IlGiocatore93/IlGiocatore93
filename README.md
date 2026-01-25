@@ -154,7 +154,10 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <tr>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
-    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="60" title="Node.js" />
+    <picture>
+    <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js Runtime" />
+</picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Command Prompt" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   </td>
