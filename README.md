@@ -73,8 +73,6 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   </td>
 </tr>
 
-<tr><td colspan="2" style="border-top:1px solid #d0d7de;"></td></tr>
-
 <tr>
   <td align="center"><b>IDE</b></td>
   <td align="center"><b>Container & Virtualization</b></td>
