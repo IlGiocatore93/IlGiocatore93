@@ -8,7 +8,8 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 💡 <b>(Chi Sono</b> / <em>About Me:)</em>
 <br><br>
 
-💻 <b>Studente Cloud-DevOps </b>
+💻 <b>Studente Cloud-DevOps</b>
+
 <em>Cloud-DevOps Student</em><br><br>
 
 🚀 <b>Affascinato dall'Informatica e dal tech in ogni sua forma!</b><br>
