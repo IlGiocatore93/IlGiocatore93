@@ -116,7 +116,10 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
     <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" height="45" title="JSON" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=json&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://skillicons.dev/icons?i=json&theme=light"height="45" title="JSON Data Format" />
+</picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
