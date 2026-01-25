@@ -1,6 +1,3 @@
-<img width="100%" height="300" alt="immagineprofilogithub"
-src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e68bf" />
-
 <h3><em>👋 Ciao, sono Giovanni! / Hi, I'm Giovanni!</em></h3>
 
 <hr style="border:0;height:5px;background-color:#444444;">
@@ -42,9 +39,9 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 
 <p align="center">
   <picture>
-  <source srcset="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="GitHub Followers" />
-</picture>
+    <source srcset="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="GitHub Followers" />
+  </picture>
   <a href="https://github.com/IlGiocatore93?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-red?style=flat-square&logo=github" />
   </a>
@@ -66,66 +63,95 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-<picture>
-  <source srcset="https://skillicons.dev/icons?i=html&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="Html" />
-</picture>
     <picture>
-  <source srcset="https://skillicons.dev/icons?i=css&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="Css" />
-</picture>
+      <source srcset="https://skillicons.dev/icons?i=html&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="HTML" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=css&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="CSS" />
+    </picture>
     <picture>
       <source srcset="https://skillicons.dev/icons?i=js&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=js&theme=light" height="45" title="JavaScript" />
-</picture>
-    <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" title="TypeScript" />
+    </picture>
     <picture>
-  <source srcset="https://skillicons.dev/icons?i=python&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
-</picture>
+      <source srcset="https://skillicons.dev/icons?i=ts&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" title="TypeScript" />
+    </picture>
     <picture>
-  <source srcset="https://skillicons.dev/icons?i=cs&theme=dark" media="(prefers-color-scheme: dark)" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
-</picture>
-    <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
-    <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
-    <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" title="Powershell" />
+      <source srcset="https://skillicons.dev/icons?i=python&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=cs&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=php&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=r&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
+    </picture>
+    <picture>
+      <source srcset="https://profilinator.rishav.dev/skills-assets/powershell-dark.png" media="(prefers-color-scheme: dark)" />
+      <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" title="PowerShell" />
+    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" title="MySql" />
     <picture>
-    <source srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50" title="MongoDB" />
-</picture>
+      <source srcset="https://skillicons.dev/icons?i=mysql&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" title="MySQL" />
+    </picture>
     <picture>
-    <source srcset="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4J" />
-</picture>
+      <source srcset="https://skillicons.dev/icons?i=mongodb&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50" title="MongoDB" />
+    </picture>
     <picture>
-    <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=cassandra&theme=light" height="50" title="Apache Cassandra" />
-</picture>
-
+      <source srcset="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4j" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=cassandra&theme=light" height="50" title="Apache Cassandra" />
+    </picture>
   </td>
 </tr>
 
 <tr>
   <td align="center"><b>IDE:</b></td>
-  <td align="center"><b>Container & Virtualizzazioni / Container & Virtualization:</b></td>
+  <td align="center"><b>Container & Virtualizzazione:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="50" title="VisualStudio" />
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VisualStudioCode" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" title="RStudio" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=visualstudio&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=visualstudio&theme=light" height="50" title="Visual Studio" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=vscode&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
+    </picture>
+    <picture>
+      <source srcset="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat_dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" height="45" title="RStudio" />
+    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
-  </picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=virtualbox&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=virtualbox&theme=light" height="45" title="VirtualBox" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=vmware&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=vmware&theme=light" height="25" title="VMware" />
+    </picture>
   </td>
 </tr>
 
@@ -135,39 +161,52 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
-    <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
     <picture>
-    <source srcset="https://simpleskill.icons.workers.dev/svg?i=json&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=json&theme=light" height="45" title="JSON" />
-</picture>
+      <source srcset="https://skillicons.dev/icons?i=dotnet&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title=".NET" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
+    </picture>
+    <picture>
+      <source srcset="https://simpleskill.icons.workers.dev/svg?i=json&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://simpleskill.icons.workers.dev/svg?i=json&theme=light" height="45" title="JSON" />
+    </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=nginx" height="50" title="Nginx" />
-    <img src="https://skillicons.dev/icons?i=wordpress" height="50" title="WordPress" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=nginx&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="50" title="Nginx" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=wordpress&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="50" title="WordPress" />
+    </picture>
     <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="50" title="Miro" />
     <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="50" title="XAMPP" />
   </td>
 </tr>
 
 <tr>
-    <td align="center"><b>Editor di Testo / Text Editors:</b></td>
-    <td align="center"><b>Repository:</b><br>
+  <td align="center"><b>Editor di Testo / Text Editors:</b></td>
+  <td align="center"><b>Repository:</b></td>
 </tr>
 <tr>
-    <td align="center" valign="top" style="padding:12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg"
-         height="60" title="Notepad++" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png"
-         height="60" title="LibreOffice" />
+  <td align="center" valign="top" style="padding:12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="60" title="Notepad++" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png" height="60" title="LibreOffice" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=git" height="50" title="Git" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=git&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=git&theme=light" height="50" title="Git" />
+    </picture>
     <picture>
       <source srcset="https://skillicons.dev/icons?i=github&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=github&theme=light" height="50" title="GitHub" />
-</picture>
+    </picture>
   </td>
 </tr>
 
@@ -177,16 +216,22 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
     <picture>
-    <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
-</picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Command Prompt" />
+      <source srcset="https://nodered.org/about/resources/media/node-red-icon-2-dark.svg" media="(prefers-color-scheme: dark)" />
+      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
+    </picture>
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
+    </picture>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://logowiki.net/uploads/logo/p/postman.svg" height="50" title="Postman" />
+    <picture>
+      <source srcset="https://skillicons.dev/icons?i=postman&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
+    </picture>
   </td>
 </tr>
 </table>
