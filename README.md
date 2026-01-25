@@ -63,14 +63,21 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,r&theme=light" height="45" />
+    <img src="https://skillicons.dev/icons?i=html&theme=light" height="45" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css&theme=light" height="45" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=js&theme=light" height="45" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts&theme=light" height="45" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=python&theme=light" height="45" title="Python" />
+    <img src="https://skillicons.dev/icons?i=cs&theme=light" height="45" title="C#" />
+    <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
+    <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
     <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" title="Powershell" height="45" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" />
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" height="48" />
-    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" height="50" />
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="MySql" height="50" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" title="Neo4J" height="48" />
+    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" title="Cassandra" height="50" />
   </td>
 </tr>
 
