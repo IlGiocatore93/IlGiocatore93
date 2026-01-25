@@ -147,9 +147,9 @@
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
     </picture>
-    <picture>
-      <source srcset="https://skillicons.dev/icons?i=virtualbox&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=virtualbox&theme=light" height="45" title="VirtualBox" />
+     <picture>
+        <source srcset="https://svgmix.com/i/yWD7da/black/virtualbox.svg" media="(prefers-color-scheme: dark)" />
+        <img src="https://svgmix.com/i/yWD7da/white/virtualbox.svg" height="45" title="VirtualBox" />
     </picture>
     <picture>
       <source srcset="https://skillicons.dev/icons?i=vmware&theme=dark" media="(prefers-color-scheme: dark)" />
