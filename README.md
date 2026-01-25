@@ -81,7 +81,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 </picture>
     <picture>
     <source srcset="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4j" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=neo4j&theme=light" height="50" title="Neo4J" />
 </picture>
     <picture>
     <source srcset="https://skillicons.dev/icons?i=cassandra&theme=dark" media="(prefers-color-scheme: dark)" />
