@@ -111,6 +111,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <tr>
   <td align="center">
     <b>Editor di Testo / Text Editors</b><br><br>
+    <td align="center" valign="top" style="padding:12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg"
          height="60" style="margin:6px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png"
@@ -121,6 +122,7 @@ src="https://github.com/user-attachments/assets/90d3308e-4331-4d78-b589-9dfad52e
 <tr>
   <td align="center">
     <b>Repository</b><br><br>
+    <td align="center" valign="top" style="padding:12px;">
     <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:6px;">
     <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:6px;">
   </td>
