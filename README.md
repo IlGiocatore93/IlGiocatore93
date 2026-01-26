@@ -141,8 +141,14 @@
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
     </picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="45" title="VirtualBox" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
+    <picture>
+  <source srcset="https://cdn.jsdelivr.net/gh/username/repo@main/icons/virtualbox-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.jsdelivr.net/gh/username/repo@main/icons/virtualbox-light.svg" height="45" title="VirtualBox">
+</picture>
+<picture>
+  <source srcset="https://cdn.jsdelivr.net/gh/username/repo@main/icons/vmware-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://cdn.jsdelivr.net/gh/username/repo@main/icons/vmware-light.svg" height="45" title="VMware">
+</picture>
   </td>
 </tr>
 
