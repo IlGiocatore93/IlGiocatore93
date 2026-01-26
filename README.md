@@ -98,10 +98,7 @@
       <source srcset="https://skillicons.dev/icons?i=r&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
     </picture>
-    <picture>
-      <source srcset="https://profilinator.rishav.dev/skills-assets/powershell-dark.png" media="(prefers-color-scheme: dark)" />
-      <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="45" title="PowerShell" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=powershell" height="45" title="PowerShell" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
