@@ -141,8 +141,14 @@
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
     </picture>
-   <img src="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/virtualbox-transparent.png" height="45" title="VirtualBox" />
-   <img src="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/vmware-transparent.png" height="45" title="VMware" />
+    <picture>
+  <source srcset="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/virtualbox_dark.png" media="(prefers-color-scheme: dark)" />
+  <img src="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/virtualbox_light.png" height="45" title="VirtualBox" />
+</picture>
+<picture>
+  <source srcset="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/vmware_dark.png" media="(prefers-color-scheme: dark)" />
+  <img src="https://cdn.jsdelivr.net/gh/IlGiocatore93/assets/vmware_light.png" height="45" title="VMware" />
+</picture>
   </td>
 </tr>
 
