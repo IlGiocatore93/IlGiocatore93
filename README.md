@@ -207,10 +207,7 @@
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <picture>
-      <source srcset="https://nodered.org/about/resources/media/node-red-icon-2-dark.svg" media="(prefers-color-scheme: dark)" />
-      <img src="https://nodered.org/about/resources/media/node-red-icon-2.svg" height="50" title="Node-RED" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodered/nodered-original.svg" height="50" title="Node-RED" />
     <picture>
       <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
