@@ -134,7 +134,7 @@
       <source srcset="https://skillicons.dev/icons?i=vscode&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
-    <img src="https://skillicons.dev/icons?i=rstudio" height="45" title="RStudio" />
+  <img src="https://skillicons.dev/icons?i=rstudio" height="45" title="RStudio" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
