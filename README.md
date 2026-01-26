@@ -24,7 +24,7 @@
 
 ⭐ <b>Featured Projects:</b>
 <ul>
-  <li>🩺 <b>Diabetes values App</b> – Bash & C# scripts for environment setup</li>
+  <li>🧬 <b>Diabetes values App</b> – Bash & C# scripts for environment setup</li>
   <li>🌐 <b>My WebSite</b> – Javascript & HTML setup</li>
 </ul>
 
