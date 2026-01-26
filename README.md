@@ -160,10 +160,7 @@
       <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
     </picture>
-    <picture>
-      <source srcset="https://simpleskill.icons.workers.dev/svg?i=json&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://simpleskill.icons.workers.dev/svg?i=json&theme=light" height="45" title="JSON" />
-    </picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="50" title="JSON" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
