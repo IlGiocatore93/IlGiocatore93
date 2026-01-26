@@ -154,7 +154,7 @@
   <td align="center" valign="top" style="padding:12px;">
     <picture>
       <source srcset="https://skillicons.dev/icons?i=dotnet&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title=".NET" />
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
     </picture>
     <picture>
       <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
