@@ -143,14 +143,6 @@
     </picture>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Virtualbox_logo.svg" height="45" title="VirtualBox" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
-<picture>
-  <source srcset="https://svgmix.com/i/401324/black/vmware.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://svgmix.com/i/401324/white/vmware.svg" height="45" title="VMware" />
-</picture>
-<picture>
-  <source srcset="https://svgmix.com/i/yWD7da/black/virtualbox.svg" media="(prefers-color-scheme: dark)" />
-  <img src="https://svgmix.com/i/yWD7da/white/virtualbox.svg" height="45" title="VirtualBox" />
-</picture>
   </td>
 </tr>
 
