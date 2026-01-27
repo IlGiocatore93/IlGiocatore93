@@ -123,7 +123,7 @@
 
 <tr>
   <td align="center"><b>IDE:</b></td>
-  <td align="center"><b>Container & Virtualizzazione:</b></td>
+  <td align="center"><b>Container & Virtualizzazione / Container & Virtualization:</b></td>
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
@@ -204,7 +204,7 @@
 </tr>
 
 <tr>
-  <td align="center"><b>Tools:</b></td>
+  <td align="center"><b>Strumenti / Tools:</b></td>
   <td align="center"><b>API:</b></td>
 </tr>
 <tr>
