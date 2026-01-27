@@ -145,7 +145,6 @@
     </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"
      height="45" title="VirtualBox" />
-    ![VirtualBox](https://img.shields.io/badge/-VirtualBox-444?style=flat-square&logo=virtualbox&logoColor=white)
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"
      height="30" title="VMware" />
   </td>
