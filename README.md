@@ -145,7 +145,8 @@
     </picture>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg"
      height="45" title="VirtualBox" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="25" title="Vmware" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg"
+     height="45" title="VMware" />
   </td>
 </tr>
 
