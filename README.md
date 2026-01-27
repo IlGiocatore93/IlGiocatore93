@@ -147,6 +147,7 @@
      height="45" title="VirtualBox" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg"
      height="30" title="VMware" />
+    <b>VirtualBox</b> • <b>VMware</b>
   </td>
 </tr>
 
