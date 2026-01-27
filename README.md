@@ -162,7 +162,8 @@
       <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
     </picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="50" title="JSON" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"
+     height="50" title="JSON" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
