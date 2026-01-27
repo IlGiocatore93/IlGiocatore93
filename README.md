@@ -143,10 +143,8 @@
       <source srcset="https://skillicons.dev/icons?i=docker&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=docker&theme=light" height="50" title="Docker" />
     </picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg"
-     height="45" title="VirtualBox" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg"
-     height="45" title="VMware" />
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+    <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
   </td>
 </tr>
 
