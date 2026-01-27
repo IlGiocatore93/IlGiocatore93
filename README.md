@@ -207,7 +207,8 @@
 </tr>
 <tr>
   <td align="center" valign="top" style="padding:12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodered/nodered-original.svg" height="50" title="Node-RED" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg"
+     height="50" title="Node-RED" />
     <picture>
       <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
