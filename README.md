@@ -98,10 +98,7 @@
       <source srcset="https://skillicons.dev/icons?i=r&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
     </picture>
-    <picture>
-  <source srcset="https://icons.simpleicons.org/powershell/FFFFFF" media="(prefers-color-scheme: dark)">
-  <img src="https://icons.simpleicons.org/powershell/000000" height="45" title="PowerShell">
-</picture>
+    <img src="https://cdn.simpleicons.org/powershell?color=000000&darkmodeColor=FFFFFF" height="45" title="PowerShell" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
