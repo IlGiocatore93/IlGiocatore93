@@ -137,7 +137,10 @@
       <source srcset="https://skillicons.dev/icons?i=vscode&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="45" title="RStudio" />
+  <picture>
+  <source srcset="https://icons.simpleicons.org/rstudio/FFFFFF" media="(prefers-color-scheme: dark)">
+  <img src="https://icons.simpleicons.org/rstudio/75AADB" height="45" title="RStudio">
+</picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
