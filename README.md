@@ -94,10 +94,6 @@
       <source srcset="https://skillicons.dev/icons?i=php&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=php&theme=light" height="45" title="PHP" />
     </picture>
-    <picture>
-      <source srcset="https://skillicons.dev/icons?i=r&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=r&theme=light" height="45" title="R" />
-    </picture>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"
      height="45" title="PowerShell" />
   </td>
@@ -135,8 +131,6 @@
       <source srcset="https://skillicons.dev/icons?i=vscode&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg"
-     height="45" title="RStudio" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
@@ -164,15 +158,9 @@
       <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
     </picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg"
-     height="50" title="JSON" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
-    <picture>
-      <source srcset="https://skillicons.dev/icons?i=nginx&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=nginx&theme=light" height="50" title="Nginx" />
-    </picture>
     <picture>
       <source srcset="https://skillicons.dev/icons?i=wordpress&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="50" title="WordPress" />
@@ -189,7 +177,6 @@
 <tr>
   <td align="center" valign="top" style="padding:12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" height="60" title="Notepad++" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LibreOffice_7.5_Main_Icon.png" height="60" title="LibreOffice" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
@@ -211,12 +198,8 @@
   <td align="center" valign="top" style="padding:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg"
      height="50" title="Node-RED" />
-    <picture>
-      <source srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="55" title="Node.js" />
-    </picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
