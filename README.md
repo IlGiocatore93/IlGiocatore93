@@ -196,7 +196,7 @@
      height="50" title="Node-RED" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
-  <img src="https://upload.wikimedia.org/wikipedia/vi/d/dc/Cisco_Packet_Tracer_Icon.png" height="40" title="Cisco Packet Tracer" />
+  <img src="https://upload.wikimedia.org/wikipedia/vi/d/dc/Cisco_Packet_Tracer_Icon.png" height="45" title="Cisco Packet Tracer" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
