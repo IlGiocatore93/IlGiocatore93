@@ -196,10 +196,7 @@
      height="50" title="Node-RED" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
-  <picture>
-      <source srcset="https://skillicons.dev/icons?i=dotnet&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
-    </picture>
+  <img src="https://upload.wikimedia.org/wikipedia/it/5/59/Rete_Cisco_Packet_Tracer.png" height="50" title="Cisco Packet Tracer" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
