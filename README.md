@@ -196,15 +196,15 @@
      height="50" title="Node-RED" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
+  <picture>
+      <source srcset="https://skillicons.dev/icons?i=dotnet&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
+    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
       <source srcset="https://skillicons.dev/icons?i=postman&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
-    </picture>
-     <picture>
-      <source srcset="https://skillicons.dev/icons?i=dotnet&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=light" height="50" title="Dotnet" />
     </picture>
   </td>
 </tr>
