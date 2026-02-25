@@ -51,6 +51,7 @@
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
   <a href="https://github.com/IlGiocatore93/IlGiocatore93/commits/main">
   <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/IlGiocatore93?style=flat-square&label=Commits&color=pink" />
+  <img src="https://streak-stats.demolab.com?user=IlGiocatore93&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
