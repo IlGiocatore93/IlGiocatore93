@@ -159,10 +159,10 @@
   <td align="center" valign="top" style="padding:12px;">
     <picture>
       <source srcset="https://skillicons.dev/icons?i=wordpress&theme=dark" media="(prefers-color-scheme: dark)" />
-      <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="45" title="WordPress" />
+      <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="42" title="WordPress" />
     </picture>
-    <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="45" title="Miro" />
-    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="45" title="XAMPP" />
+    <img src="https://images.ctfassets.net/udc161ufuk3a/3OpfaicvbVFEOrTyKbnsm1/ef0e67662cdcbacccea58dbfcbf7c10b/Miro_logo_news.png" height="42" title="Miro" />
+    <img src="https://profilinator.rishav.dev/skills-assets/xampp.png" height="42" title="XAMPP" />
   </td>
 </tr>
 
