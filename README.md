@@ -41,18 +41,16 @@
 </p>
  
 <p align="center">
-  <picture>
-    <source srcset="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="Followers" />
-  </picture>
+  <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="Followers" />
   <a href="https://github.com/IlGiocatore93?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-red?style=flat-square&logo=github" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=IlGiocatore93&style=flat-square&color=green" />
-  <a href="https://github.com/IlGiocatore93/IlGiocatore93/commits/main">
   <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/IlGiocatore93?style=flat-square&label=Commits&color=pink" />
-  <img src="https://streak-stats.demolab.com?user=IlGiocatore93&theme=github-dark&hide_border=true" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IlGiocatore93&theme=github-dark&hide_border=true" />
 </p>
 
 <hr style="border:0;height:5px;background-color:#444444;">
