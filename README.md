@@ -200,7 +200,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   <img src="https://upload.wikimedia.org/wikipedia/vi/d/dc/Cisco_Packet_Tracer_Icon.png" height="45" title="Cisco Packet Tracer" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original" height="45" title="Jenkins" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="45" title="Jenkins" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
