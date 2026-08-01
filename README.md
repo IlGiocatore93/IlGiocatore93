@@ -152,6 +152,8 @@
     <picture>
       <source srcset="https://skillicons.dev/icons?i=flask&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=flask&theme=light" height="50" title="Flask" />
+    </picture>
+    <picture>
       <source srcset="https://skillicons.dev/icons?i=react&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=react&theme=light" height="45" title="React" />
     </picture>
