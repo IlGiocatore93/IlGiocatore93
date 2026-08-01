@@ -137,9 +137,6 @@
     <picture>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="50" title="Kali Linux" />
     </picture>
-    <picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Ubuntu_MATE_rondel_logo.svg" height="50" title="Ubuntu MATE" />
-    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
@@ -210,7 +207,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_logo.svg" width="65" title="Windows Terminal" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/PuTTY_Icon.svg" height="45" title="PuTTY" />
   <img src="https://upload.wikimedia.org/wikipedia/vi/d/dc/Cisco_Packet_Tracer_Icon.png" height="45" title="Cisco Packet Tracer" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="50" title="Jenkins" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
