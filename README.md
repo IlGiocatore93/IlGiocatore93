@@ -50,11 +50,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/IlGiocatore93/IlGiocatore93?style=flat-square&label=Commits&color=pink" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IlGiocatore93&theme=github-dark&hide_border=true" />
-</p>
-
-<hr style="border:0;height:5px;background-color:#444444;">
+<img src="https://streak-stats.demolab.com?user=IlGiocatore93&theme=github-dark&hide_border=true" />
 
 <h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE:</h3>
 
