@@ -26,6 +26,7 @@
 <ul>
   <li>🧬 <b>Diabetes values App</b> – Bash & C# scripts for environment setup</li>
   <li>🌐 <b>My WebSite</b> – Javascript & HTML setup</li>
+  <li>🙋‍♂️ <b>Portfolio</b> - React/Typescript + FastApi + PostgreSQL</li>
 </ul>
 
 <hr style="border:0;height:5px;background-color:#444444;">
