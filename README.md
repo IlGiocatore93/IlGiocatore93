@@ -137,6 +137,9 @@
     <picture>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="50" title="Kali Linux" />
     </picture>
+    <picture>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="50" title="Ubuntu MATE" />
+    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
