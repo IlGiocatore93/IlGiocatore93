@@ -165,7 +165,7 @@
       <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" title="React" />
     </picture>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="48" title="Tkinter" />
-    <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge&logo=yolo&logoColor=white" width="135" title="YOLO" />
+    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/favicon-yolo.png" height="45" title="Ultralytics" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
