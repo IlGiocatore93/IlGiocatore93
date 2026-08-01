@@ -213,6 +213,9 @@
       <source srcset="https://skillicons.dev/icons?i=postman&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
+    <picture>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jsonwebtokens.svg" height="50" title="JWT" />
+    </picture>
   </td>
 </tr>
 </table>
