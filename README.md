@@ -135,7 +135,7 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
     </picture>
     <picture>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="45" title="Kali Linux" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="50" title="Kali Linux" />
     </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
