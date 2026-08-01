@@ -130,6 +130,10 @@
       <source srcset="https://skillicons.dev/icons?i=vscode&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
+    <picture>
+    <source srcset="https://skillicons.dev/icons?i=linux&theme=dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" height="45" title="Linux" />
+    </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
