@@ -157,7 +157,7 @@
       <source srcset="https://skillicons.dev/icons?i=react&theme=dark" media="(prefers-color-scheme: dark)" />
       <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" title="React" />
     </picture>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="45" title="Tkinter" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Python_Tkinter_example.png" height="48" title="Tkinter" />
   </td>
   <td align="center" valign="top" style="padding:12px;">
     <picture>
