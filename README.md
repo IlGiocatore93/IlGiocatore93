@@ -131,8 +131,7 @@
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
     <picture>
-    <source srcset="https://skillicons.dev/icons?i=linux&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="28" title="Kali Linux" />
     </picture>
     <picture>
     <img src="https://cdn.simpleicons.org/kalilinux/FFFFFF#gh-dark-mode-only" height="50" title="Kali Linux" /><img src="https://cdn.simpleicons.org/kalilinux/000000#gh-light-mode-only" height="50" title="Kali
@@ -216,7 +215,7 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF#gh-dark-mode-only" height="50" title="JWT" /><img src="https://cdn.simpleicons.org/jsonwebtokens/000000#gh-light-mode-only" height="50" title="JWT"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28" title="JWT" />
     </picture>
   </td>
 </tr>
