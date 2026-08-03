@@ -136,7 +136,7 @@
     </picture>
     <picture>
     <source srcset="https://cdn.simpleicons.org/kalilinux/FFFFFF" media="(prefers-color-scheme: dark)" />
-    <img src="https://cdn.simpleicons.org/kalilinux/000000" height="50" title="Kali Linux" />
+    <img src="https://cdn.simpleicons.org/kalilinux/9CA3AF" height="50" title="Kali Linux" />
     </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
@@ -217,7 +217,7 @@
     </picture>
     <picture>
     <source srcset="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" media="(prefers-color-scheme: dark)" />
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="50" title="JWT" />
+    <img src="https://cdn.simpleicons.org/jsonwebtokens/9CA3AF" height="50" title="JWT" />
     </picture>
   </td>
 </tr>
