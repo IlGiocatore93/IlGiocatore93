@@ -131,7 +131,8 @@
       <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" title="VS Code" />
     </picture>
     <picture>
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" height="28" title="Kali Linux" />
+     <source srcset="https://skillicons.dev/icons?i=linux&theme=dark" media="(prefers-color-scheme: dark)" />    
+     <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
     </picture>
     <picture>
     <img src="https://cdn.simpleicons.org/kalilinux/FFFFFF#gh-dark-mode-only" height="50" title="Kali Linux" /><img src="https://cdn.simpleicons.org/kalilinux/000000#gh-light-mode-only" height="50" title="Kali
