@@ -135,8 +135,8 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
     </picture>
     <picture>
-    <img src="https://cdn.simpleicons.org/kalilinux/FFFFFF#gh-dark-mode-only" height="50" title="Kali Linux" />
-    <img src="https://cdn.simpleicons.org/kalilinux/000000#gh-light-mode-only" height="50" title="Kali Linux" />
+    <img src="https://cdn.simpleicons.org/kalilinux/FFFFFF#gh-dark-mode-only" height="50" title="Kali Linux" /><img src="https://cdn.simpleicons.org/kalilinux/000000#gh-light-mode-only" height="50" title="Kali
+    Linux" />
     </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
@@ -216,8 +216,7 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF#gh-dark-mode-only" height="50" title="JWT" />
-    <img src="https://cdn.simpleicons.org/jsonwebtokens/000000#gh-light-mode-only" height="50" title="JWT" /> 
+    <img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF#gh-dark-mode-only" height="50" title="JWT" /><img src="https://cdn.simpleicons.org/jsonwebtokens/000000#gh-light-mode-only" height="50" title="JWT"/>
     </picture>
   </td>
 </tr>
