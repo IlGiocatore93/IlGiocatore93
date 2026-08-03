@@ -135,7 +135,6 @@
     <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
     </picture>
     <picture>
-    <source srcset="https://cdn.simpleicons.org/kalilinux/FFFFFF" media="(prefers-color-scheme: dark)" />
     <img src="https://cdn.simpleicons.org/kalilinux/9CA3AF" height="50" title="Kali Linux" />
     </picture>
   </td>
