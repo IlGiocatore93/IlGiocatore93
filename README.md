@@ -135,7 +135,7 @@
      <img src="https://skillicons.dev/icons?i=linux&theme=light" height="50" title="Linux" />
     </picture>
     <picture>
-    <img src="https://img.shields.io/badge/%E2%80%8B-24292e?style=flat&logo=kalilinux&logoColor=white" height="60" title="Kali Linux" />
+    <img src="https://img.shields.io/badge/%E2%80%8B-24292e?style=flat&logo=kalilinux&logoColor=white&logoWidth=40" height="60" title="Kali Linux" />
     </picture>
   </td>
   <td align="center" valign="top" style="padding:12px;">
