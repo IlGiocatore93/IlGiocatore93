@@ -215,7 +215,7 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <img src="https://img.shields.io/badge/%E2%80%8B-24292e?style=flat&logo=jsonwebtokens&logoColor=white&logoSize=auto" height="60" title="JWT" />
+    <img src="https://custom-icon-badges.demolab.com/badge/%E2%80%8B-24292e?logo=jsonwebtokens&logoColor=white&logoSize=auto" height="60" title="JWT" />
     </picture>
   </td>
 </tr>
