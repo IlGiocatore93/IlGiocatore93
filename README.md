@@ -216,8 +216,8 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <a href="https://jwt.io" target="_blank" rel="noopener noreferrer" title="JWT">
-    <img src="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt.svg" height="60" alt="JWT" /></a>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt-dark.png"/>
+    <img src="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt-light.png" height="60" title="JWT"/>
     </picture>
   </td>
 </tr>
