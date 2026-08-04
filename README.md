@@ -216,8 +216,7 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt-dark.png"/>
-    <img src="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt-light.png" height="60" title="JWT"/>
+    <img src="https://img.shields.io/badge/%E2%80%8B-24292e?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTAuMiAwdjYuNDU2TDEyIDguOTI4bDEuOC0yLjQ3MlYwem0zLjYgNi40NTZ2My4wNzJsMi45MDQtLjk2TDIwLjUyIDMuMzZsLTIuOTI4LTIuMTM2em0yLjkwNCAyLjExMmwtMS44IDIuNDk2IDIuOTI4LjkzNiA2LjE0NC0xLjk5Mi0xLjEyOC0zLjQzMnpNMTcuODMyIDEybC0yLjkyOC45MzYgMS44IDIuNDk2IDYuMTQ0IDEuOTkyIDEuMTI4LTMuNDMyem0tMS4xMjggMy40MzJsLTIuOTA0LS45NnYzLjA3MmwzLjc5MiA1LjIzMiAyLjkyOC0yLjEzNnpNMTMuOCAxNy41NDRMMTIgMTUuMDcybC0xLjggMi40NzJWMjRoMy42em0tMy42IDB2LTMuMDcybC0yLjkwNC45NkwzLjQ4IDIwLjY0bDIuOTI4IDIuMTM2em0tMi45MDQtMi4xMTJsMS44LTIuNDk2TDYuMTY4IDEyIC4wMjQgMTMuOTkybDEuMTI4IDMuNDMyek02LjE2OCAxMmwyLjkyOC0uOTM2LTEuOC0yLjQ5Ni02LjE0NC0xLjk5Mi0xLjEyOCAzLjQzMnptMS4xMjgtMy40MzJsMi45MDQuOTZWNi40NTZMNi40MDggMS4yMjQgMy40OCAzLjM2WiIvPjwvc3ZnPg==" height="60" title="JWT" />
     </picture>
   </td>
 </tr>
