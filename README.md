@@ -216,7 +216,7 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <img src="https://raw.githubusercontent.com/IlGiocatore93/IlGiocatore93/main/assets/jwt.svg" height="50" title="JWT"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/%E2%80%8B-24292e?logo=jsonwebtokens&logoColor=white&logoSize=auto" height="60" title="JWT" />
     </picture>
   </td>
 </tr>
