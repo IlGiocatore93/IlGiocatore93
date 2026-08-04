@@ -216,7 +216,8 @@
       <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" title="Postman" />
     </picture>
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/jwt-white.svg"/><img src="./assets/jwt-black.svg" height="50" title="JWT"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/jwt-white.svg"/>
+    <img src="./assets/jwt-black.svg" height="50" title="JWT"/>
     </picture>
   </td>
 </tr>
