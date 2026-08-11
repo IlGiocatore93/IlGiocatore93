@@ -35,12 +35,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
     height="190"
     alt="Top Languages"
   />
 </p>
- 
+
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/IlGiocatore93?style=flat-square" title="Followers" />
   <a href="https://github.com/IlGiocatore93?tab=repositories">
