@@ -33,8 +33,9 @@
 
 <h3 align="center">📊 Linguaggi principali (overview):</h3>
 
-
-![Top Languages](./generated/languages.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlGiocatore93&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+</p>
 
 
 <p align="center">
