@@ -48,9 +48,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=IlGiocatore93&theme=github-dark&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlGiocatore93&langs_count=8&include_all_commits=true&theme=github-dark&hide_border=true" width="550" />
 </p>
-<hr style="border:0;height:5px;background-color:#444444;">
 
 <h3 align="center">🧰 APPLICATIVI DI RIFERIMENTO / TOOLS & SOFTWARE:</h3>
 
