@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<img src="https://il-giocatore93-github-readme-streak.vercel.app/?user=IlGiocatore93&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=IlGiocatore93&theme=github-dark&hide_border=true" />
 </p>
 <hr style="border:0;height:5px;background-color:#444444;">
 
