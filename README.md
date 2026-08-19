@@ -34,7 +34,7 @@
 <h3 align="center">📊 Linguaggi principali (overview):</h3>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlGiocatore93&langs_count=8&include_all_commits=true&theme=github-dark&hide_border=true&layout=pie" width="100%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=IlGiocatore93&theme=github-dark&hide_border=true" width="100%" />
 </p>
 
 
